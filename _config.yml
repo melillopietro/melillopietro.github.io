@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title:Pietro Melillo Homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
