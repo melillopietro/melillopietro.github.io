@@ -13,7 +13,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
-[Link to another page](./contact.html).
+[Contact](./contact.html).
 [IBM](https://www.ibm.com/us-en/).
 
 There should be whitespace between paragraphs.
