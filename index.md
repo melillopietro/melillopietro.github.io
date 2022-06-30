@@ -6,7 +6,7 @@ description: [Cyber Security Engineer / Senior T.I. Analyst @IBM  | PhD Research
 
 
 
-[Research](./research.html) [Publication](./publication.html)  [Contact](./contact.html) 
+ [Publication](./publication.html)  [Research](./research.html)  [Contact](./contact.html) 
 
 
 
