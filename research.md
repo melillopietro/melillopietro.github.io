@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Research] [Back](./)
+## [Research] 
  
 - Cooming soon 
 
