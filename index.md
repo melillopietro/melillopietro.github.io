@@ -4,9 +4,7 @@ layout: default
 
 
 
-[Research](./research.html) 
-[Articles](./articles.html)  
-[Contact](./contact.html) 
+[Research](./research.html) [Publication](./publication.html)  [Contact](./contact.html) 
 
 
 

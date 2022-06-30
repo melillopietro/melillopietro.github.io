@@ -29,14 +29,3 @@ layout: default
 
 
 
-
-
-
-
-
-
-
-
-
-
-[back](./)
