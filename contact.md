@@ -5,7 +5,9 @@ layout: default
 ## [Contact]
 
 
-[mail](mailto:melillopietro@gmail.com)
+
+- :email: `melillo.pietro@gmail.com`</a> 
+- :bird: https://twitter.com/melillopietro
 
 
 
