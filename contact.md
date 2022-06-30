@@ -6,8 +6,8 @@ layout: default
 
 
 
-- :email: `melillo.pietro@gmail.com`</a> 
-- :bird: https://twitter.com/melillopietro
+- [mail](melillo.pietro@gmail.com) 
+- [twitter](https://twitter.com/melillopietro)
 
 
 
