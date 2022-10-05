@@ -5,3 +5,5 @@ title: [Pietro Melillo ]
 description: [Cyber Security Engineer / Senior T.I. Analyst @IBM  | PhD Researcher @unisannio]
 gem "github-pages", group: :jekyll_plugins
 show_downloads: false
+github:
+is_project_page: false
