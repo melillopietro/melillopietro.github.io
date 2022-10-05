@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title:[Pietro Melillo ]
 description: [Cyber Security Engineer / Senior T.I. Analyst @IBM  | PhD Researcher @unisannio]
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: false
 show_downloads: false
 
