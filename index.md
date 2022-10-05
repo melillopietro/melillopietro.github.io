@@ -4,7 +4,7 @@ layout: default
 
 
 
-  [Research](./research.html)  [Publication](./publication.html) [Contact](./contact.html) 
+  [Research](./research.html)  [Publication](./publication.html) [Ransomware Monitor](./rmonitor.html) [Contact](./contact.html) 
 
 
 
