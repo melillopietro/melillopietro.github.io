@@ -55,11 +55,16 @@
             text-decoration: none;
             color: var(--main-color);
             font-size: 1.5rem;
-            transition: color 0.3s ease;
+            transition: transform 0.3s ease, color 0.3s ease;
         }
 
-        /* Hover per testo e icone */
-        nav ul li a:hover,
+        /* Hover: le icone diventano più grandi e cambiano colore */
+        nav ul li a:hover {
+            color: var(--hover-color);
+            transform: scale(1.2); /* Aumenta la dimensione del 20% */
+        }
+
+        /* Hover per testo */
         #header p:hover,
         #header h1:hover {
             color: var(--hover-color);
