@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="Pietro Melillo - Cyber Security Engineer, CISO @Wuerth, PhD Researcher. Certificazioni CEH, CIH, CTIA. Scopri di più sul mio lavoro e ricerca." />
     <meta name="author" content="Pietro Melillo" />
+    <meta name="keywords" content="Cyber Security, CISO, PhD, CEH, CIH, CTIA, Pietro Melillo, Ricerca, Sicurezza Informatica">
+    <meta name="version" content="1.0.0">
     <link rel="stylesheet" href="assets/css/main.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2DhKNkXScfjk89P+E5E3G2NEV+EH9EFChHGpYGZ16Vx9rX3EqfMEv9Od6g2u3zzVQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -56,6 +58,7 @@
             text-decoration: none;
             color: #333;
             font-size: 1.2rem;
+            transition: color 0.3s ease;
         }
 
         nav ul li a:hover {
@@ -85,31 +88,38 @@
 </head>
 <body>
     <div id="wrapper">
-        <header id="header">
-            <h1>Pietro Melillo</h1>
-            <p>Cyber Security Engineer / Chief Information Security Officer @Wuerth<br>PhD Researcher @unisannio</p>
-            <p>Certificazioni: <strong>CEH | CIH | CTIA</strong></p>
-            <nav>
-                <ul>
-                    <li><a href="https://www.twitter.com/melillopietro" class="fab fa-twitter" aria-label="Twitter"></a></li>
-                    <li><a href="https://www.github.com/melillopietro" class="fab fa-github" aria-label="GitHub"></a></li>
-                    <li><a href="https://www.linkedin.com/in/melillopietro/" class="fab fa-linkedin" aria-label="LinkedIn"></a></li>
-                    <li><a href="https://melillopietro.github.io/aboutme.html" class="fas fa-user" aria-label="About Me"></a></li>
-                    <li><a href="https://melillopietro.github.io/research.html" class="fas fa-landmark" aria-label="Research"></a></li>
-                    <li><a href="mailto:melillopietro@gmail.com" class="fas fa-envelope" aria-label="Email"></a></li>
-                </ul>
-            </nav>
-        </header>
+        <main>
+            <header id="header">
+                <h1>Pietro Melillo</h1>
+                <p>Cyber Security Engineer / Chief Information Security Officer @Wuerth<br>PhD Researcher @unisannio</p>
+                <p>Certificazioni: <strong>CEH | CIH | CTIA</strong></p>
+                <nav>
+                    <ul>
+                        <li><a href="https://www.twitter.com/melillopietro" class="fab fa-twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                        <li><a href="https://www.github.com/melillopietro" class="fab fa-github" aria-label="GitHub" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                        <li><a href="https://www.linkedin.com/in/melillopietro/" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                        <li><a href="https://melillopietro.github.io/aboutme.html" class="fas fa-user" aria-label="About Me" target="_blank" rel="noopener noreferrer">About Me</a></li>
+                        <li><a href="https://melillopietro.github.io/research.html" class="fas fa-landmark" aria-label="Research" target="_blank" rel="noopener noreferrer">Research</a></li>
+                        <li><a href="mailto:melillopietro@gmail.com" class="fas fa-envelope" aria-label="Email">Email</a></li>
+                    </ul>
+                </nav>
+            </header>
 
-        <footer id="footer">
-            <span>&copy; Pietro Melillo 2025 - Tutti i diritti riservati</span>
-        </footer>
+            <footer id="footer">
+                <span>&copy; Pietro Melillo 2025 - Tutti i diritti riservati</span>
+            </footer>
+        </main>
     </div>
 
     <script>
         // Rimuovi preloader se esiste
         window.onload = function () {
             document.body.classList.remove('is-preload');
+
+            // Aggiungi messaggio di benvenuto dinamico
+            const hour = new Date().getHours();
+            const welcomeMessage = hour < 12 ? "Buongiorno" : hour < 18 ? "Buon pomeriggio" : "Buonasera";
+            document.querySelector('#header h1').insertAdjacentHTML('beforeend', `<span> - ${welcomeMessage}</span>`);
         };
     </script>
 </body>
