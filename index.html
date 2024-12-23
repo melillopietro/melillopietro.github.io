@@ -11,7 +11,66 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2DhKNkXScfjk89P+E5E3G2NEV+EH9EFChHGpYGZ16Vx9rX3EqfMEv9Od6g2u3zzVQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <style>
-        /* Responsive adjustments */
+        /* Responsive layout */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            background: #f5f5f5;
+        }
+
+        #wrapper {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+
+        #header h1 {
+            font-size: 2.5rem;
+            margin: 0.5rem 0;
+        }
+
+        #header p {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+            line-height: 1.5;
+        }
+
+        nav ul {
+            padding: 0;
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        nav ul li {
+            display: inline-block;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+            font-size: 1.5rem;
+        }
+
+        nav ul li a:hover {
+            color: #007bff;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* Responsive adjustments for mobile */
         @media (max-width: 768px) {
             #header h1 {
                 font-size: 2rem;
@@ -23,20 +82,15 @@
             }
 
             nav ul {
-                display: flex;
-                flex-wrap: wrap;
                 gap: 10px;
-                justify-content: center;
             }
 
             nav ul li a {
                 font-size: 1.2rem;
-                padding: 10px;
             }
 
             footer {
                 font-size: 0.8rem;
-                text-align: center;
             }
         }
 
@@ -49,9 +103,18 @@
                 font-size: 0.9rem;
             }
 
+            nav ul {
+                flex-direction: column;
+                gap: 8px;
+            }
+
             nav ul li a {
-                font-size: 1rem;
-                padding: 8px;
+                font-size: 1.2rem;
+            }
+
+            footer {
+                font-size: 0.7rem;
+                margin-top: 20px;
             }
         }
     </style>
