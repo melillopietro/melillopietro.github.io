@@ -48,7 +48,7 @@
             color: var(--main-color);
         }
 
-        /* Colore e stile delle icone */
+        /* Stile delle icone */
         nav ul {
             padding: 0;
             list-style: none;
@@ -66,14 +66,14 @@
         nav ul li a {
             text-decoration: none;
             color: var(--main-color);
-            font-size: 2rem; /* Dimensione icona */
-            transition: transform 0.3s ease, color 0.3s ease;
+            font-size: 2rem; /* Dimensione iniziale delle icone */
+            transition: color 0.3s ease, transform 0.3s ease;
         }
 
-        /* Effetto hover: ingrandimento e cambio colore */
+        /* Hover: leggero "bounce" e cambio colore */
         nav ul li a:hover {
             color: var(--hover-color);
-            transform: scale(1.2); /* Ingrandisci del 20% */
+            transform: translateY(-5px); /* Leggero movimento verso l'alto */
         }
 
         /* Footer */
