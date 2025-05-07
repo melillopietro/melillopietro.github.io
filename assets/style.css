@@ -1,0 +1,52 @@
+
+body {
+  scroll-behavior: smooth;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  width: 220px;
+  min-height: 100vh;
+  background-color: #212529;
+  padding-top: 2rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.sidebar a {
+  display: block;
+  color: #ccc;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.sidebar a:hover,
+.sidebar a.active {
+  background-color: #495057;
+  color: white;
+}
+
+.content {
+  margin-left: 220px;
+  padding: 2rem;
+  width: 100%;
+}
+
+section {
+  padding-top: 60px;
+}
+
+footer {
+  margin-left: 220px;
+}
+
+img.rounded-circle {
+  object-fit: cover;
+}
