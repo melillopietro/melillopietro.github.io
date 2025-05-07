@@ -1,233 +1,107 @@
+
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Pietro Melillo</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/style.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="assets/style.css" rel="stylesheet" />
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://kit.fontawesome.com/a2e0e6cfd8.js" crossorigin="anonymous"></script>
   <style>
-    body {
-      scroll-behavior: smooth;
-    }
-    .rounded-circle {
-      object-fit: cover;
-    }
     section {
       padding-top: 60px;
     }
   </style>
-  <script>
-    function toggleTheme() {
-      const currentTheme = document.documentElement.getAttribute('data-bs-theme');
-      document.documentElement.setAttribute('data-bs-theme', currentTheme === 'dark' ? 'light' : 'dark');
-    }
-  </script>
 </head>
 <body class="bg-body text-body">
-
-  <div class="content" id="dynamic-content">
   <nav class="navbar navbar-expand-lg border-bottom">
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" href="#">Pietro Melillo</a>
       <div>
-        <a class="nav-link d-inline px-2" href="#about">About</a>
-        <a class="nav-link d-inline px-2" href="#research">Research</a>
-        <a class="nav-link d-inline px-2" href="#contact">Contact</a>
+        <a class="nav-link d-inline px-2" href="#" onclick="loadSection('contact')">Contact</a>
         <button onclick="toggleTheme()" class="btn btn-outline-secondary ms-3">🌓</button>
       </div>
     </div>
   </nav>
 
-  <div class="container py-5">
-    
-
-
-
-    
-
-    
-
-    <footer class="text-center mt-5 py-4 border-top">
-      <p class="mb-1">&copy; 2025 Pietro Melillo</p>
-      <p>
-        <a href="https://www.linkedin.com/in/melillopietro/" class="text-decoration-none me-3" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/melillopietro" class="text-decoration-none me-3" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="mailto:melillopietro@gmail.com" class="text-decoration-none"><i class="fas fa-envelope"></i></a>
-      </p>
-    </footer>
+  <div class="wrapper">
+    <nav class="sidebar">
+      <a href="#" onclick="loadSection('about')">About</a>
+      <a href="#" onclick="loadSection('research')">Research</a>
+      <a href="#" onclick="loadSection('talks')">Talks</a>
+      <a href="#" onclick="loadSection('interviews')">Interviews</a>
+      <a href="#" onclick="loadSection('publications')">Publications</a>
+      <a href="#" onclick="loadSection('courses')">Courses</a>
+      <a href="#" onclick="loadSection('podcasts')">Podcasts</a>
+      <a href="#" onclick="loadSection('contact')">Contact</a>
+    </nav>
+    <div class="content" id="main-content">
+      <!-- Dynamic content will be inserted here -->
+    </div>
   </div>
-  
+
+  <footer class="text-center mt-5 py-4 border-top">
+    <p class="mb-1">&copy; 2025 Pietro Melillo</p>
+    <p>
+      <a href="https://www.linkedin.com/in/melillopietro/" class="text-decoration-none me-3" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/melillopietro" class="text-decoration-none me-3" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="mailto:melillopietro@gmail.com" class="text-decoration-none"><i class="fas fa-envelope"></i></a>
+    </p>
+  </footer>
+
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const templates = {};
-      document.querySelectorAll("template").forEach(t => {
-        templates[t.id] = t.innerHTML;
-      });
-      const contentDiv = document.querySelector(".content");
-      const sidebarLinks = document.querySelectorAll(".sidebar a");
-      function loadSection(id) {
-        if (templates[id]) {
-          contentDiv.innerHTML = templates[id];
-        }
-      }
-      sidebarLinks.forEach(link => {
-        link.addEventListener("click", function(e) {
-          e.preventDefault();
-          sidebarLinks.forEach(l => l.classList.remove("active"));
-          this.classList.add("active");
-          loadSection(this.getAttribute("href").substring(1));
-        });
-      });
-      loadSection("about");
-    });
-  </script>
+    function toggleTheme() {
+      const currentTheme = document.documentElement.getAttribute('data-bs-theme');
+      document.documentElement.setAttribute('data-bs-theme', currentTheme === 'dark' ? 'light' : 'dark');
+    }
 
-<template id="research">
-<section id="research" class="mb-5 text-center">
-      <h2>Research</h2>
-      <p>My recent research focuses on infostealers, ransomware, and threat intelligence platforms. I actively contribute to conferences and publish works on cyber threats, underground ecosystems, and the evolution of malware economy.</p>
-      <div class="d-flex justify-content-center flex-wrap gap-2 mb-4">
-        <a class="btn btn-outline-light" href="#talks">Talks</a>
-        <a class="btn btn-outline-light" href="#interviews">Interviews</a>
-        <a class="btn btn-outline-light" href="#publications">Publications</a>
-        <a class="btn btn-outline-light" href="#courses">Courses</a>
-        <a class="btn btn-outline-light" href="#podcasts">Podcasts</a>
-      </div>
-
-      <div id="talks">
-        <h4>Talks</h4>
-        <ul class="list-unstyled">
-          <li><a href="https://www.unisannio.it/it/eventi/linux-day-2022" target="_blank" rel="noopener">Linux Day 2022 Benevento</a></li>
-          <li><a href="https://irlug.it/blog/linux%20day/eventi/linux-day-2023" target="_blank" rel="noopener">Linux Day 2023 Avellino</a></li>
-          <li><a href="https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/" target="_blank" rel="noopener">Digital Security Festival 2022</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2023 - Pietro Melillo: L'impronta della sanità italiana nelle underground</a></li>
-          <li><a href="https://www.youtube.com/watch?v=NKWPG7PU5FU&ab_channel=RedHotCyber" target="_blank" rel="noopener">RHC Conference 2024 - Pietro Melillo & Valerio Cammarota: Ransom Inside collezionare i dati sul fenomeno ransomware</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2025 - Pietro Melillo: Un anno di DarkLab</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2025 - Pietro Melillo: Come entrare nel DarkWeb in sicurezza e accenni di CTI</a></li>
-        </ul>
-      </div>
-      
-<div id="interviews">
-  <h4>Interviews</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://italiaimballaggio.it/node/8491" target="_blank" rel="noopener">ITALIAIMBALLAGGIO, Cybersecurity: facciamo il punto con Red Hot Cyber</a></li>
-    <li><a href="https://www.italiaimballaggio.it/node/9024" target="_blank" rel="noopener">ITALIAIMBALLAGGIO, Cybersecurity: Il giorno più lungo del mondo connesso</a></li>
-    <li><a href="https://informareonline.com/hacktivism-la-nuova-frontiera-dellattivismo-politico/" target="_blank" rel="noopener">INFORMARE ONLINE: Hacktivism: la nuova frontiera dell’attivismo politico</a></li>
-  </ul>
-</div>
-
-      
-<div id="publications">
-  <h4>Publications</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://community.ibm.com/community/user/security/blogs/gladys-koskas1/2021/11/25/cobalt-strike-whether-it-is-a-red-team-or-a-threat" target="_blank" rel="noopener">Cobalt Strike: Whether it is a red team or an adversary, detect it with QRadar</a></li>
-    <li><a href="https://yoroi.company/research/transparent-tribe-four-years-later/" target="_blank" rel="noopener">Transparent Tribe: Four Years Later</a></li>
-    <li><a href="https://github.com/melillopietro/CyberDroid" target="_blank" rel="noopener">CyberDroid: Realization of an environment for Analyzing Android Apps</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development of a POC for the transmission of a Malware Files on Android</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">DARK WEB MONITOR: Evolution of a Threat Intelligence Platform for monitoring the Dark Web to intercept Data Leakage</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development of an Exploitation Toolkit for Network Printers</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Design and implementation of a threat intelligence platform for the analysis of the ransomware phenomenon</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Evolution of the Ransomware Phenomenon: Analysis of the Cybergangs Business Model</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development and Implementation of Deepye: A Threat Intelligence Platform for Attack Surface</a></li>
-  </ul>
-</div>
-
-      
-<div id="courses">
-  <h4>Courses</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://www.redhotcyber.com/training/corso-dark-web-e-cyber-threat-intelligence/" target="_blank" rel="noopener">Red Hot Cyber: Dark Web e Cyber Threat Intelligence</a></li>
-    <li><a href="https://unisannio.it/" target="_blank" rel="noopener">Università degli Studi del Sannio: Cyber Threat Intelligence</a></li>
-    <li><a href="https://iusi.eu/" target="_blank" rel="noopener">IUSI Corporate University: Laboratorio di Sicurezza Informatica</a></li>
-    <li><a href="https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html" target="_blank" rel="noopener">Università di Roma Tor Vergata: Fondamenti di Threat Intelligence</a></li>
-    <li><a href="https://it.cantemir.ro" target="_blank" rel="noopener">Università Dimitrie Cantemir: Master Psicologia Forense e Tutela del Minore</a></li>
-  </ul>
-</div>
-
-      
-<div id="podcasts">
-  <h4>Podcasts</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://open.spotify.com/episode/28Jkejt76TuiFD9L6grJiW?si=exWYpv0jRTOhMDtB88E6bg" target="_blank" rel="noopener">RHC CyberSecurity PodCast: Alla scoperta della cyber threat intelligence</a></li>
-  </ul>
-</div>
-
-    </section>
-</template>
-<template id="contact">
-<section id="contact" class="text-center">
-      <h2>Contact</h2>
-      <p>You can reach me via the following platforms:</p>
-      <p>
-        <a href="https://www.linkedin.com/in/melillopietro/" class="btn btn-outline-info m-1" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    const sections = {
+      about: `<section class="text-center">
+        <img src="assets/img/profile.jpg" class="rounded-circle mb-3" alt="Profile Picture" width="150" height="150">
+        <h2>About Me</h2>
+        <p>I currently serve as Chief Information Security Officer (CISO) at Würth Italy, where I oversee the cybersecurity strategy for Würth Italia, Würth Modyf, and KBlue Srl, ensuring alignment with business goals and regulatory frameworks such as GDPR and ISO/IEC 27001. My expertise lies in cyber threat intelligence, incident response, and security governance, with a focus on reducing risk and enhancing organizational resilience through threat-informed decision-making.</p>
+        <p>Alongside my corporate responsibilities, I am actively involved in academia as a lecturer in Cyber Threat Intelligence at the University of Rome Tor Vergata and other institutions, contributing to the development of next-generation cybersecurity professionals. As a Ph.D. researcher in Cyber Threat Intelligence at the University of Sannio, my work investigates threat actor behaviors, ransomware business models, and dark web ecosystems. I have authored research on threat detection platforms and underground market analysis, and regularly speak at conferences on emerging trends in cybercrime.</p>
+      </section>`,
+      research: `<section class="text-center"><h2>Research</h2><p>My recent research focuses on infostealers, ransomware, and threat intelligence platforms. I actively contribute to conferences and publish works on cyber threats, underground ecosystems, and the evolution of malware economy.</p></section>`,
+      talks: `<section><h4>Talks</h4><ul class="list-unstyled">
+        <li><a href="https://www.unisannio.it/it/eventi/linux-day-2022" target="_blank">Linux Day 2022 Benevento</a></li>
+        <li><a href="https://irlug.it/blog/linux%20day/eventi/linux-day-2023" target="_blank">Linux Day 2023 Avellino</a></li>
+        <li><a href="https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/" target="_blank">Digital Security Festival 2022</a></li>
+        <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank">RHC Conference 2023</a></li>
+        <li><a href="https://www.youtube.com/watch?v=NKWPG7PU5FU" target="_blank">RHC Conference 2024</a></li>
+      </ul></section>`,
+      interviews: `<section><h4>Interviews</h4><ul class="list-unstyled">
+        <li><a href="https://italiaimballaggio.it/node/8491" target="_blank">ItaliaImballaggio: Red Hot Cyber</a></li>
+        <li><a href="https://www.italiaimballaggio.it/node/9024" target="_blank">ItaliaImballaggio: Giorno più lungo</a></li>
+        <li><a href="https://informareonline.com/hacktivism-la-nuova-frontiera-dellattivismo-politico/" target="_blank">Informare Online: Hacktivism</a></li>
+      </ul></section>`,
+      publications: `<section><h4>Publications</h4><ul class="list-unstyled">
+        <li><a href="https://github.com/melillopietro/CyberDroid" target="_blank">CyberDroid: Analyzing Android Apps</a></li>
+        <li><a href="https://yoroi.company/research/transparent-tribe-four-years-later/" target="_blank">Transparent Tribe: Four Years Later</a></li>
+      </ul></section>`,
+      courses: `<section><h4>Courses</h4><ul class="list-unstyled">
+        <li><a href="https://www.redhotcyber.com/training/corso-dark-web-e-cyber-threat-intelligence/" target="_blank">Dark Web & CTI</a></li>
+        <li><a href="https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html" target="_blank">Tor Vergata - Threat Intelligence</a></li>
+      </ul></section>`,
+      podcasts: `<section><h4>Podcasts</h4><ul class="list-unstyled">
+        <li><a href="https://open.spotify.com/episode/28Jkejt76TuiFD9L6grJiW?si=exWYpv0jRTOhMDtB88E6bg" target="_blank">RHC Podcast: Threat Intelligence</a></li>
+      </ul></section>`,
+      contact: `<section class="text-center"><h2>Contact</h2><p>You can reach me via the following platforms:</p>
+        <p><a href="https://www.linkedin.com/in/melillopietro/" class="btn btn-outline-info m-1" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
         <a href="https://github.com/melillopietro" class="btn btn-outline-dark m-1" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-        <a href="mailto:melillopietro@gmail.com" class="btn btn-outline-danger m-1"><i class="fas fa-envelope"></i> Email</a>
-      </p>
-    </section>
-</template>
-<template id="talks">
-<div id="talks">
-        <h4>Talks</h4>
-        <ul class="list-unstyled">
-          <li><a href="https://www.unisannio.it/it/eventi/linux-day-2022" target="_blank" rel="noopener">Linux Day 2022 Benevento</a></li>
-          <li><a href="https://irlug.it/blog/linux%20day/eventi/linux-day-2023" target="_blank" rel="noopener">Linux Day 2023 Avellino</a></li>
-          <li><a href="https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/" target="_blank" rel="noopener">Digital Security Festival 2022</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2023 - Pietro Melillo: L'impronta della sanità italiana nelle underground</a></li>
-          <li><a href="https://www.youtube.com/watch?v=NKWPG7PU5FU&ab_channel=RedHotCyber" target="_blank" rel="noopener">RHC Conference 2024 - Pietro Melillo & Valerio Cammarota: Ransom Inside collezionare i dati sul fenomeno ransomware</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2025 - Pietro Melillo: Un anno di DarkLab</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank" rel="noopener">RHC Conference 2025 - Pietro Melillo: Come entrare nel DarkWeb in sicurezza e accenni di CTI</a></li>
-        </ul>
-      </div>
-</template>
-<template id="interviews">
-<div id="interviews">
-  <h4>Interviews</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://italiaimballaggio.it/node/8491" target="_blank" rel="noopener">ITALIAIMBALLAGGIO, Cybersecurity: facciamo il punto con Red Hot Cyber</a></li>
-    <li><a href="https://www.italiaimballaggio.it/node/9024" target="_blank" rel="noopener">ITALIAIMBALLAGGIO, Cybersecurity: Il giorno più lungo del mondo connesso</a></li>
-    <li><a href="https://informareonline.com/hacktivism-la-nuova-frontiera-dellattivismo-politico/" target="_blank" rel="noopener">INFORMARE ONLINE: Hacktivism: la nuova frontiera dell’attivismo politico</a></li>
-  </ul>
-</div>
-</template>
-<template id="publications">
-<div id="publications">
-  <h4>Publications</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://community.ibm.com/community/user/security/blogs/gladys-koskas1/2021/11/25/cobalt-strike-whether-it-is-a-red-team-or-a-threat" target="_blank" rel="noopener">Cobalt Strike: Whether it is a red team or an adversary, detect it with QRadar</a></li>
-    <li><a href="https://yoroi.company/research/transparent-tribe-four-years-later/" target="_blank" rel="noopener">Transparent Tribe: Four Years Later</a></li>
-    <li><a href="https://github.com/melillopietro/CyberDroid" target="_blank" rel="noopener">CyberDroid: Realization of an environment for Analyzing Android Apps</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development of a POC for the transmission of a Malware Files on Android</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">DARK WEB MONITOR: Evolution of a Threat Intelligence Platform for monitoring the Dark Web to intercept Data Leakage</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development of an Exploitation Toolkit for Network Printers</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Design and implementation of a threat intelligence platform for the analysis of the ransomware phenomenon</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Evolution of the Ransomware Phenomenon: Analysis of the Cybergangs Business Model</a></li>
-    <li><a href="https://www.unisannio.it/" target="_blank" rel="noopener">Development and Implementation of Deepye: A Threat Intelligence Platform for Attack Surface</a></li>
-  </ul>
-</div>
-</template>
-<template id="courses">
-<div id="courses">
-  <h4>Courses</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://www.redhotcyber.com/training/corso-dark-web-e-cyber-threat-intelligence/" target="_blank" rel="noopener">Red Hot Cyber: Dark Web e Cyber Threat Intelligence</a></li>
-    <li><a href="https://unisannio.it/" target="_blank" rel="noopener">Università degli Studi del Sannio: Cyber Threat Intelligence</a></li>
-    <li><a href="https://iusi.eu/" target="_blank" rel="noopener">IUSI Corporate University: Laboratorio di Sicurezza Informatica</a></li>
-    <li><a href="https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html" target="_blank" rel="noopener">Università di Roma Tor Vergata: Fondamenti di Threat Intelligence</a></li>
-    <li><a href="https://it.cantemir.ro" target="_blank" rel="noopener">Università Dimitrie Cantemir: Master Psicologia Forense e Tutela del Minore</a></li>
-  </ul>
-</div>
-</template>
-<template id="podcasts">
-<div id="podcasts">
-  <h4>Podcasts</h4>
-  <ul class="list-unstyled">
-    <li><a href="https://open.spotify.com/episode/28Jkejt76TuiFD9L6grJiW?si=exWYpv0jRTOhMDtB88E6bg" target="_blank" rel="noopener">RHC CyberSecurity PodCast: Alla scoperta della cyber threat intelligence</a></li>
-  </ul>
-</div>
-</template>
-</body>
+        <a href="mailto:melillopietro@gmail.com" class="btn btn-outline-danger m-1"><i class="fas fa-envelope"></i> Email</a></p></section>`
+    }
 
+    function loadSection(key) {
+      const container = document.getElementById("main-content");
+      container.innerHTML = sections[key] || "<section><p>Section not found.</p></section>";
+    }
+
+    window.onload = function () {
+      loadSection("about");
+    };
+  </script>
+</body>
 </html>
