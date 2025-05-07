@@ -1,52 +1,56 @@
 
-body {
-  scroll-behavior: smooth;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000;
+  font-family: 'Fira Code', monospace;
+  color: #c7fdb5;
+  font-size: 16px;
 }
 
-.wrapper {
+#terminal {
+  padding: 20px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.prompt {
+  color: #6fff57;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.line {
   display: flex;
-  flex-direction: row;
+  align-items: center;
 }
 
-.sidebar {
-  width: 220px;
-  min-height: 100vh;
-  background-color: #212529;
-  padding-top: 2rem;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
+.input {
+  flex: 1;
+  min-height: 1.2em;
+  outline: none;
+  color: #ffffff;
+  caret-color: #00ff00;
+  border: none;
+  background: transparent;
 }
 
-.sidebar a {
-  display: block;
-  color: #ccc;
-  padding: 10px 20px;
-  text-decoration: none;
+.response {
+  color: #8cffc1;
+  margin-left: 1em;
+  white-space: pre-wrap;
 }
 
-.sidebar a:hover,
-.sidebar a.active {
-  background-color: #495057;
-  color: white;
+a {
+  color: #00f0ff;
+  text-decoration: underline;
 }
 
-.content {
-  margin-left: 220px;
-  padding: 2rem;
-  width: 100%;
+a:hover {
+  color: #00ddee;
 }
 
-section {
-  padding-top: 60px;
-}
-
-footer {
-  margin-left: 220px;
-}
-
-img.rounded-circle {
-  object-fit: cover;
+.typed {
+  color: #fff;
 }

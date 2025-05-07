@@ -1,107 +1,129 @@
 
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="dark">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Pietro Melillo</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
-  <link href="assets/style.css" rel="stylesheet" />
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="https://kit.fontawesome.com/a2e0e6cfd8.js" crossorigin="anonymous"></script>
-  <style>
-    section {
-      padding-top: 60px;
-    }
-  </style>
+  <title>root@melillo:~$</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
-<body class="bg-body text-body">
-  <nav class="navbar navbar-expand-lg border-bottom">
-    <div class="container-fluid">
-      <a class="navbar-brand fw-bold" href="#">Pietro Melillo</a>
-      <div>
-        <a class="nav-link d-inline px-2" href="#" onclick="loadSection('contact')">Contact</a>
-        <button onclick="toggleTheme()" class="btn btn-outline-secondary ms-3">🌓</button>
-      </div>
-    </div>
-  </nav>
-
-  <div class="wrapper">
-    <nav class="sidebar">
-      <a href="#" onclick="loadSection('about')">About</a>
-      <a href="#" onclick="loadSection('research')">Research</a>
-      <a href="#" onclick="loadSection('talks')">Talks</a>
-      <a href="#" onclick="loadSection('interviews')">Interviews</a>
-      <a href="#" onclick="loadSection('publications')">Publications</a>
-      <a href="#" onclick="loadSection('courses')">Courses</a>
-      <a href="#" onclick="loadSection('podcasts')">Podcasts</a>
-      <a href="#" onclick="loadSection('contact')">Contact</a>
-    </nav>
-    <div class="content" id="main-content">
-      <!-- Dynamic content will be inserted here -->
+<body>
+  
+  <div id="boot-screen" class="p-4 text-success" style="font-family: 'Fira Code', monospace;"></div>
+  <div id="terminal" class="container-fluid py-4 d-none">
+    
+    <div id="output"></div>
+    <div class="line">
+      <span class="prompt">root@melillo:~$</span>
+      <div id="input" class="input" contenteditable="true" spellcheck="false"></div>
     </div>
   </div>
 
-  <footer class="text-center mt-5 py-4 border-top">
-    <p class="mb-1">&copy; 2025 Pietro Melillo</p>
-    <p>
-      <a href="https://www.linkedin.com/in/melillopietro/" class="text-decoration-none me-3" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://github.com/melillopietro" class="text-decoration-none me-3" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="mailto:melillopietro@gmail.com" class="text-decoration-none"><i class="fas fa-envelope"></i></a>
-    </p>
-  </footer>
-
   <script>
-    function toggleTheme() {
-      const currentTheme = document.documentElement.getAttribute('data-bs-theme');
-      document.documentElement.setAttribute('data-bs-theme', currentTheme === 'dark' ? 'light' : 'dark');
-    }
+    
+    const bootScreen = document.getElementById("boot-screen");
+    const terminal = document.getElementById("terminal");
 
-    const sections = {
-      about: `<section class="text-center">
-        <img src="assets/img/profile.jpg" class="rounded-circle mb-3" alt="Profile Picture" width="150" height="150">
-        <h2>About Me</h2>
-        <p>I currently serve as Chief Information Security Officer (CISO) at Würth Italy, where I oversee the cybersecurity strategy for Würth Italia, Würth Modyf, and KBlue Srl, ensuring alignment with business goals and regulatory frameworks such as GDPR and ISO/IEC 27001. My expertise lies in cyber threat intelligence, incident response, and security governance, with a focus on reducing risk and enhancing organizational resilience through threat-informed decision-making.</p>
-        <p>Alongside my corporate responsibilities, I am actively involved in academia as a lecturer in Cyber Threat Intelligence at the University of Rome Tor Vergata and other institutions, contributing to the development of next-generation cybersecurity professionals. As a Ph.D. researcher in Cyber Threat Intelligence at the University of Sannio, my work investigates threat actor behaviors, ransomware business models, and dark web ecosystems. I have authored research on threat detection platforms and underground market analysis, and regularly speak at conferences on emerging trends in cybercrime.</p>
-      </section>`,
-      research: `<section class="text-center"><h2>Research</h2><p>My recent research focuses on infostealers, ransomware, and threat intelligence platforms. I actively contribute to conferences and publish works on cyber threats, underground ecosystems, and the evolution of malware economy.</p></section>`,
-      talks: `<section><h4>Talks</h4><ul class="list-unstyled">
-        <li><a href="https://www.unisannio.it/it/eventi/linux-day-2022" target="_blank">Linux Day 2022 Benevento</a></li>
-        <li><a href="https://irlug.it/blog/linux%20day/eventi/linux-day-2023" target="_blank">Linux Day 2023 Avellino</a></li>
-        <li><a href="https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/" target="_blank">Digital Security Festival 2022</a></li>
-        <li><a href="https://www.youtube.com/watch?v=6R-AJWOEPYc" target="_blank">RHC Conference 2023</a></li>
-        <li><a href="https://www.youtube.com/watch?v=NKWPG7PU5FU" target="_blank">RHC Conference 2024</a></li>
-      </ul></section>`,
-      interviews: `<section><h4>Interviews</h4><ul class="list-unstyled">
-        <li><a href="https://italiaimballaggio.it/node/8491" target="_blank">ItaliaImballaggio: Red Hot Cyber</a></li>
-        <li><a href="https://www.italiaimballaggio.it/node/9024" target="_blank">ItaliaImballaggio: Giorno più lungo</a></li>
-        <li><a href="https://informareonline.com/hacktivism-la-nuova-frontiera-dellattivismo-politico/" target="_blank">Informare Online: Hacktivism</a></li>
-      </ul></section>`,
-      publications: `<section><h4>Publications</h4><ul class="list-unstyled">
-        <li><a href="https://github.com/melillopietro/CyberDroid" target="_blank">CyberDroid: Analyzing Android Apps</a></li>
-        <li><a href="https://yoroi.company/research/transparent-tribe-four-years-later/" target="_blank">Transparent Tribe: Four Years Later</a></li>
-      </ul></section>`,
-      courses: `<section><h4>Courses</h4><ul class="list-unstyled">
-        <li><a href="https://www.redhotcyber.com/training/corso-dark-web-e-cyber-threat-intelligence/" target="_blank">Dark Web & CTI</a></li>
-        <li><a href="https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html" target="_blank">Tor Vergata - Threat Intelligence</a></li>
-      </ul></section>`,
-      podcasts: `<section><h4>Podcasts</h4><ul class="list-unstyled">
-        <li><a href="https://open.spotify.com/episode/28Jkejt76TuiFD9L6grJiW?si=exWYpv0jRTOhMDtB88E6bg" target="_blank">RHC Podcast: Threat Intelligence</a></li>
-      </ul></section>`,
-      contact: `<section class="text-center"><h2>Contact</h2><p>You can reach me via the following platforms:</p>
-        <p><a href="https://www.linkedin.com/in/melillopietro/" class="btn btn-outline-info m-1" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-        <a href="https://github.com/melillopietro" class="btn btn-outline-dark m-1" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-        <a href="mailto:melillopietro@gmail.com" class="btn btn-outline-danger m-1"><i class="fas fa-envelope"></i> Email</a></p></section>`
-    }
+    const bootLines = [
+      "[ OK ] Initializing BIOS...",
+      "[ OK ] Checking system memory...",
+      "[ OK ] Mounting virtual drive...",
+      "[ OK ] Starting CTI engine...",
+      "[ OK ] Loading PietroOS shell...",
+      "[ OK ] Boot complete. Welcome."
+    ];
 
-    function loadSection(key) {
-      const container = document.getElementById("main-content");
-      container.innerHTML = sections[key] || "<section><p>Section not found.</p></section>";
+    let i = 0;
+    function typeBoot() {
+      if (i < bootLines.length) {
+        bootScreen.innerHTML += bootLines[i] + "<br/>";
+        i++;
+        setTimeout(typeBoot, 400);
+      } else {
+        bootScreen.classList.add("d-none");
+        terminal.classList.remove("d-none");
+        document.getElementById("input").focus();
+      }
     }
+    setTimeout(typeBoot, 500);
 
-    window.onload = function () {
-      loadSection("about");
+    const inputDiv = document.getElementById("input");
+    
+    const outputDiv = document.getElementById("output");
+    let history = [];
+    let historyIndex = -1;
+
+    
+    const commands = {
+      help: "Available commands: about, research, talks, interviews, courses, publications, podcasts, contact, clear",
+      about: "Pietro Melillo - <strong>CISO</strong> at Würth Italy, <strong>PhD</strong> researcher in CTI, lecturer at <em>Tor Vergata</em> and <em>UniSannio</em>.",
+      research: "Main topics: ransomware, infostealers, dark web ecosystems.",
+      talks: "<ul><li><a href='https://www.unisannio.it/it/eventi/linux-day-2022' target='_blank'>Linux Day 2022 Benevento</a></li><li><a href='https://irlug.it/blog/linux%20day/eventi/linux-day-2023' target='_blank'>Linux Day 2023 Avellino</a></li><li><a href='https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/' target='_blank'>Digital Security Festival 2022</a></li><li><a href='https://www.youtube.com/watch?v=6R-AJWOEPYc' target='_blank'>RHC Conference 2023 - Pietro Melillo: L'impronta della sanità italiana nelle underground</a></li><li><a href='https://www.youtube.com/watch?v=NKWPG7PU5FU&ab_channel=RedHotCyber' target='_blank'>RHC Conference 2024 - Pietro Melillo & Valerio Cammarota: Ransom Inside</a></li><li><a href='https://www.youtube.com/watch?v=6R-AJWOEPYc' target='_blank'>RHC Conference 2025 - Pietro Melillo: Un anno di DarkLab</a></li><li><a href='https://www.youtube.com/watch?v=6R-AJWOEPYc' target='_blank'>RHC Conference 2025 - Pietro Melillo: DarkWeb e CTI</a></li></ul>",
+      interviews: "<ul><li><a href='https://italiaimballaggio.it/node/8491' target='_blank'>ITALIAIMBALLAGGIO, Red Hot Cyber</a></li><li><a href='https://www.italiaimballaggio.it/node/9024' target='_blank'>ITALIAIMBALLAGGIO, Il giorno più lungo</a></li><li><a href='https://informareonline.com/hacktivism-la-nuova-frontiera-dellattivismo-politico/' target='_blank'>INFORMARE ONLINE, Hacktivism</a></li></ul>",
+      courses: "<ul><li><a href='https://www.redhotcyber.com/training/corso-dark-web-e-cyber-threat-intelligence/' target='_blank'>Red Hot Cyber: Dark Web e Cyber Threat Intelligence</a></li><li><a href='https://unisannio.it/' target='_blank'>Università degli Studi del Sannio: Cyber Threat Intelligence</a></li><li><a href='https://iusi.eu/' target='_blank'>IUSI Corporate University: Laboratorio di Sicurezza Informatica</a></li><li><a href='https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html' target='_blank'>Università di Roma Tor Vergata: Fondamenti di Threat Intelligence</a></li><li><a href='https://it.cantemir.ro' target='_blank'>Università Dimitrie Cantemir: Master Psicologia Forense e Tutela del Minore</a></li></ul>",
+      publications: "<ul><li><a href='https://community.ibm.com/community/user/security/blogs/gladys-koskas1/2021/11/25/cobalt-strike-whether-it-is-a-red-team-or-a-threat' target='_blank'>Cobalt Strike</a></li><li><a href='https://yoroi.company/research/transparent-tribe-four-years-later/' target='_blank'>Transparent Tribe</a></li><li><a href='https://github.com/melillopietro/CyberDroid' target='_blank'>CyberDroid</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Malware POC Android</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Dark Web Monitor</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Printer Exploit Toolkit</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Ransomware Platform</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Ransomware Business Model</a></li><li><a href='https://www.unisannio.it/' target='_blank'>Deepye Platform</a></li></ul>",
+      podcasts: "<ul><li><a href='https://open.spotify.com/episode/28Jkejt76TuiFD9L6grJiW?si=exWYpv0jRTOhMDtB88E6bg' target='_blank'>RHC Podcast: Threat Intelligence</a></li></ul>",
+      contact: "<ul><li><a href='https://www.linkedin.com/in/melillopietro/' target='_blank'>LinkedIn</a></li><li><a href='https://github.com/melillopietro' target='_blank'>GitHub</a></li><li><a href='mailto:melillopietro@gmail.com'>Email</a></li></ul>",
+      clear: "__CLEAR__"
     };
+
+
+    inputDiv.focus();
+    document.addEventListener("click", () => inputDiv.focus());
+
+    inputDiv.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        const command = inputDiv.innerText.trim();
+        if (!command) return;
+
+        history.push(command);
+        historyIndex = history.length;
+
+        const line = document.createElement("div");
+        line.innerHTML = "<span class='prompt'>root@melillo:~$</span> <span class='typed'>" + command + "</span>";
+        outputDiv.appendChild(line);
+
+        if (command === "clear") {
+          outputDiv.innerHTML = "";
+        } else if (commands[command]) {
+          const response = commands[command];
+          if (response !== "__CLEAR__") {
+            const out = document.createElement("div");
+            out.className = "response";
+            out.innerHTML = response;
+            outputDiv.appendChild(out);
+          }
+        } else {
+          const err = document.createElement("div");
+          err.className = "response text-danger";
+          err.innerText = "Command not found: " + command;
+          outputDiv.appendChild(err);
+        }
+
+        inputDiv.innerText = "";
+        window.scrollTo(0, document.body.scrollHeight);
+      }
+
+      if (e.key === "ArrowUp") {
+        e.preventDefault();
+        if (historyIndex > 0) {
+          historyIndex--;
+          inputDiv.innerText = history[historyIndex];
+        }
+      }
+
+      if (e.key === "ArrowDown") {
+        e.preventDefault();
+        if (historyIndex < history.length - 1) {
+          historyIndex++;
+          inputDiv.innerText = history[historyIndex];
+        } else {
+          inputDiv.innerText = "";
+        }
+      }
+    });
   </script>
 </body>
 </html>
