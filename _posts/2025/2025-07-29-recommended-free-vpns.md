@@ -1,7 +1,7 @@
 ---
 title: Best Free VPN Services for Privacy and Security
 date: 2025-07-29
-categories: [Privacy, Tools, Networking]
+categories: [Guides,Privacy, Tools, Networking]
 tags: [VPN, Security, Anonymity, Privacy Tools, Free Software]
 ---
 
