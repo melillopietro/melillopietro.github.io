@@ -7,15 +7,13 @@ tags: [Dell PowerEdge, Proxmox VE, Virtualization, Server, Installation]
 
 ## 🖥 Introduction
 
-![Proxmox Install Screenshot](/assets/images/blogs/Proxmox/proxmoxMSWS22.png)
-
 
 This guide provides a detailed, step-by-step walkthrough for installing **Proxmox Virtual Environment (VE)** on a **Dell PowerEdge R630**, a powerful 1U rack server suitable for virtualization workloads, homelabs, or enterprise environments.
 
 ---
 
 ## 🔧 About the Dell PowerEdge R630
-
+![Proxmox Install Screenshot](/assets/images/blogs/Proxmox/dell630.png)
 The **Dell PowerEdge R630** is a dual-socket, 1U rack server designed for performance and scalability. It features:
 
 - Intel Xeon E5-2600 v3/v4 processors
@@ -125,6 +123,6 @@ Before starting:
 ---
 
 ## ✅ Conclusion
-
+![Proxmox Install Screenshot](/assets/images/blogs/Proxmox/proxmoxMSWS22.png)
 Your Dell PowerEdge R630 is now running Proxmox VE, ready to host your virtual machines or containers. This setup provides a solid foundation for homelab, virtualization, or even production workloads.
 
