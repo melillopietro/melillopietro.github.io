@@ -16,7 +16,7 @@ timezone:
 
 title: Pietro Melillo # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Chief Information Security Officer | PhD Researcher | CTI Expert
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://melillopietro.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: melillopietro # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: melillopietro # change to your Twitter username
 
 social:
   # Change to your full name.
