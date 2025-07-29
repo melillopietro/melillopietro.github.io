@@ -1,7 +1,7 @@
 ---
 title: Essential Tools and Platforms for Cyber Threat Intelligence (CTI)
 date: 2025-07-29
-categories: [CTI, Tools, Resources]
+categories: [Guides, Tools, Resources]
 tags: [Threat Intelligence, OSINT, CTI Platforms, Dark Web, IOC]
 ---
 

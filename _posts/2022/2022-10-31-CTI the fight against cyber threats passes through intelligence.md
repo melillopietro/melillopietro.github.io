@@ -2,7 +2,7 @@
 layout: post
 title: Cyber Threat Intelligence the fight against cyber threats passes through intelligence
 date: 31-10-2022
-categories: [Talk , CTI]
+categories: [Talk,]
 tag: [Talk , Ransomware,Darkweb,CTI]
 ---
 
