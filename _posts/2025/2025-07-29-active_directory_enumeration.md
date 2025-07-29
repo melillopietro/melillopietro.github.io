@@ -1,7 +1,7 @@
 ---
 title: Active Directory Enumeration Techniques
 date: 2025-07-29
-categories: [Active Directory, Enumeration, Offensive Security]
+categories: [Offensive Security / Penetration Testing, ActiveDirectory, Enumeration,Offensive Security]
 tags: [recon, AD, PowerView, LDAP, BloodHound, Impacket]
 ---
 
