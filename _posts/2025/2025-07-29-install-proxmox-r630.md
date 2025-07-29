@@ -55,7 +55,7 @@ Before starting:
 
 1. Download the latest **Proxmox VE ISO** from:
    [https://www.proxmox.com/en/downloads](https://www.proxmox.com/en/downloads)
-
+![Proxmox Install Screenshot](/assets/images/blogs/Proxmox/proxmoxDownload.png)
 2. Use **balenaEtcher** or **Rufus** to flash the ISO to a USB stick.
 
 ---
@@ -106,6 +106,7 @@ Before starting:
 ---
 
 ## ⚙ Post-Install Recommendations
+
 
 - Update system: `apt update && apt full-upgrade`
 - Add subscription-free repo (if using without license)
