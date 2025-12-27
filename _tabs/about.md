@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 1
+---
 My name is **Pietro Melillo**, and I have been working for several years in the field of **cybersecurity**, with a specific focus on **Cyber Threat Intelligence (CTI)**, security governance, and advanced threat analysis.
 
 I currently serve as **Chief Information Security Officer (CISO)** at **Würth Italy**, where I am responsible for defining and overseeing the company’s cybersecurity strategy across multiple business entities. My role includes regulatory compliance—particularly with the **NIS2 Directive**—as well as the implementation and continuous improvement of international standards such as **ISO/IEC 27001**. I also lead enterprise-wide initiatives in incident response, vulnerability management, security awareness, and AI governance, ensuring alignment between cybersecurity controls, regulatory obligations, and business objectives.
