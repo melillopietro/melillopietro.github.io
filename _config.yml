@@ -1,25 +1,19 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# Language
 lang: en
-
-# Timezone
 timezone: Europe/Zurich
 
-# jekyll-seo-tag settings
-# ↓ --------------------------
-
 title: Pietro Melillo
-tagline: Chief Information Security Officer | PhD Researcher | CTI Expert
+tagline: Chief Information Security Officer | PhD Researcher | Cyber Threat Intelligence
 
 description: >-
-  Cyber Threat Intelligence, Ransomware Analysis, Machine Learning for Security,
-  and Applied Cybersecurity Research.
+  Cybersecurity professional specializing in Cyber Threat Intelligence,
+  security governance, ransomware analysis, and applied research.
 
 url: "https://melillopietro.github.io"
+baseurl: ""
 
 github:
   username: melillopietro
@@ -33,7 +27,11 @@ social:
   links:
     - https://github.com/melillopietro
 
-# Site Verification
+# --- COPYRIGHT ---
+copyright:
+  year: 2026
+# -----------------
+
 webmaster_verifications:
   google:
   bing:
@@ -42,9 +40,6 @@ webmaster_verifications:
   baidu:
   facebook:
 
-# ↑ --------------------------
-
-# Analytics
 analytics:
   google:
     id:
@@ -61,26 +56,18 @@ analytics:
   fathom:
     id:
 
-# Page views
 pageviews:
   provider:
 
-# Theme mode
 theme_mode:
 
-# CDN
 cdn:
 
-# Sidebar avatar
 avatar: "/assets/img/avatar.jpg"
-
-# Social preview image
 social_preview_image:
 
-# Table of contents
 toc: true
 
-# Comments
 comments:
   provider:
   disqus:
@@ -99,23 +86,18 @@ comments:
     lang:
     reactions_enabled:
 
-# Static assets
 assets:
   self_host:
     enabled:
     env:
 
-# Progressive Web App (PWA)
+# Progressive Web App
 pwa:
   enabled: true
   cache:
     enabled: false
 
-# Pagination
 paginate: 10
-
-# Base URL
-baseurl: ""
 
 # ------------ DO NOT MODIFY BELOW ------------------
 
