@@ -9,7 +9,7 @@ These credentials reflect both executive-level governance competencies and hands
 
 ## Executive & Security Governance
 
-- **Certified Chief Information Security Officer (CCISO)** – :contentReference[oaicite:0]{index=0}  
+- **Certified Chief Information Security Officer (CCISO)**  
   Focused on security leadership, risk management, governance frameworks, and strategic alignment between cybersecurity and business objectives.
 
 ## Cyber Threat Intelligence & Incident Response
@@ -25,12 +25,12 @@ These credentials reflect both executive-level governance competencies and hands
 - **Certified Ethical Hacker (CEH)** – EC-Council  
   Foundations of offensive security, adversarial techniques, and defensive countermeasures.
 
-- **Red Teaming Active Directory for Beginners** – :contentReference[oaicite:1]{index=1}  
+- **Red Teaming Active Directory for Beginners** 
   Practical introduction to Active Directory attack paths, privilege escalation, and lateral movement techniques.
 
 ## SIEM & Security Monitoring Platforms
 
-- **IBM QRadar SIEM Foundation Certification** – :contentReference[oaicite:2]{index=2}  
+- **IBM QRadar SIEM Foundation Certification** – 
 - **IBM QRadar SIEM Advanced Certification** – IBM  
 
   Design, deployment, and advanced use of SIEM architectures for log correlation, detection engineering, and enterprise security monitoring.
