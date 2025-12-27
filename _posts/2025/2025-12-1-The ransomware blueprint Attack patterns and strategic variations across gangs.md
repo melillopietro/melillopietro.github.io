@@ -2,11 +2,9 @@
 layout: post
 title: The ransomware blueprint: Attack patterns and strategic variations across gangs
 date: 1-12-2025
-categories: [Publications , Ransomware , ]
-tag: [Publications , APT, CTI, Ransomware , Unisannio ,]
+categories: [Academic Research , Publication]
+tag: [Publications , Academic, Ransomware, DarkWeb, Unisannio]
 ---
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214212625X00077-cov200h.gif" alt="AsycRAT Banner" width="700" height="500">
 
 
 # Abstract 
