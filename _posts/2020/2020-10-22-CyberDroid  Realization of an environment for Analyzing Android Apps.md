@@ -2,7 +2,7 @@
 layout: post
 title: CyberDroid  Realization of an environment for Analyzing Android Apps
 date: 22-10-2020
-categories: [Academic Research , Publication]
+categories: [Academic Research , Publications]
 tag: [Publications , Academic, Malware, Android, Unisannio]
 ---
 

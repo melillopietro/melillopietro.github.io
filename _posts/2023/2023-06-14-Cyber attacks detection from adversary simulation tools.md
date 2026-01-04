@@ -2,7 +2,7 @@
 layout: post
 title: Cyber attacks detection from adversary simulation tools
 date: 14-06-2023
-categories: [Academic Research , Publication]
+categories: [Academic Research , Publications]
 tag: [Publications , Academic, Ransomware, CobaltStrike, Unisannio]
 ---
 

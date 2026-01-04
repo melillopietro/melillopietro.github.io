@@ -2,7 +2,7 @@
 layout: post
 title: Development and Implementation of Deepye A Threat Intelligence Platform for Attack Surface
 date: 14-06-2023
-categories: [Academic Research , Publication]
+categories: [Academic Research , Publications]
 tag: [Publications , Academic, Ransomware, DarkWeb, Unisannio]
 ---
 

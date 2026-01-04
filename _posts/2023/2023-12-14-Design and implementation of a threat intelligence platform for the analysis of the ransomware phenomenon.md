@@ -2,7 +2,7 @@
 layout: post
 title: Design and implementation of a threat intelligence platform for the analysis of the ransomware phenomenon
 date: 14-04-2023
-categories: [Academic Research , Publication]
+categories: [Academic Research , Publications]
 tag: [Publications , Academic, Ransomware, DarkWeb, Unisannio]
 ---
 

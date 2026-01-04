@@ -2,7 +2,7 @@
 layout: post
 title: Evolution of the Ransomware Phenomenon Analysis of the Cybergangs Business Model
 date: 14-04-2023
-categories: [Academic Research , Publication]
+categories: [Academic Research , Publications]
 tag: [Publications , Academic, Ransomware, Bitcoin, Unisannio]
 ---
 
