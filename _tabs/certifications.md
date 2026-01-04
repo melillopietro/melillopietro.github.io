@@ -30,8 +30,8 @@ These credentials reflect both executive-level governance competencies and hands
 
 ## SIEM & Security Monitoring Platforms
 
-- **IBM QRadar SIEM Foundation Certification** – 
-- **IBM QRadar SIEM Advanced Certification** – IBM  
+- **IBM QRadar SIEM Foundation Certification** 
+- **IBM QRadar SIEM Advanced Certification**   
 
   Design, deployment, and advanced use of SIEM architectures for log correlation, detection engineering, and enterprise security monitoring.
 
