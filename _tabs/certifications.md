@@ -9,7 +9,7 @@ These credentials reflect both executive-level governance competencies and hands
 
 ## Executive & Security Governance
 
-- **Certified Chief Information Security Officer (CCISO)**  
+- **Certified Chief Information Security Officer (CCISO)** – EC-Council  
   Focused on security leadership, risk management, governance frameworks, and strategic alignment between cybersecurity and business objectives.
 
 ## Cyber Threat Intelligence & Incident Response
@@ -30,8 +30,8 @@ These credentials reflect both executive-level governance competencies and hands
 
 ## SIEM & Security Monitoring Platforms
 
-- **IBM QRadar SIEM Foundation Certification** 
-- **IBM QRadar SIEM Advanced Certification**   
+- **IBM QRadar SIEM Foundation Certification** - IBM
+- **IBM QRadar SIEM Advanced Certification**   - IBM 
 
   Design, deployment, and advanced use of SIEM architectures for log correlation, detection engineering, and enterprise security monitoring.
 
