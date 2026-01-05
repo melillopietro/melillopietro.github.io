@@ -20,18 +20,18 @@ The proposed solution focuses on repeatability, transparency, and auditability, 
 The solution is intentionally composed of two files, each with a clearly defined responsibility:
 
 - **`Default.cmd`**  
-  A minimal wrapper responsible for orchestrating execution and ensuring compatibility across Windows environments where direct PowerShell execution may be restricted.
+  A minimal execution wrapper responsible for orchestrating script execution and ensuring compatibility across Windows environments where direct PowerShell execution may be restricted.
 
 - **`installer.ps1`**  
   The core PowerShell script implementing system checks, privilege handling, WinGet bootstrap, software installation, and optional debloating logic.
 
-This separation allows the execution flow to remain explicit and predictable, avoiding hidden dependencies or implicit behaviors.
+This separation keeps the execution flow explicit and predictable, avoiding hidden dependencies or implicit behaviors.
 
 ---
 
 ## Execution wrapper (`Default.cmd`)
 
-The CMD wrapper acts as an entry point and ensures that the PowerShell script is executed from a consistent working directory while preserving command-line arguments.
+The CMD wrapper acts as the entry point and ensures that the PowerShell script is executed from a consistent working directory while preserving command-line arguments.
 
 ```bat
 @echo off
