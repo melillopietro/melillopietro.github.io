@@ -9,43 +9,40 @@ tags: [PowerShell, WinGet, Automation, Windows, IT Governance]
 ## Abstract
 
 In operational Windows environments, manual software installation remains a recurring source of inconsistency, operational overhead, and configuration drift.  
-This article presents a lightweight, script-based approach for controlled software provisioning on Windows systems, leveraging native tooling such as **PowerShell** and **WinGet**, without introducing external frameworks or management platforms.
-
-The proposed solution emphasizes repeatability, transparency, and auditability, making it suitable for laboratory environments, controlled workstations, and small-scale managed deployments.
+This article presents a lightweight, script-based approach for controlled software provisioning on Windows systems, leveraging native tooling such as **PowerShell** and **WinGet**.
 
 ---
 
-## Design overview
+## Overview
 
-The solution is intentionally composed of two files, each with a clearly defined responsibility:
+The solution is composed of two files:
 
-- **`Default.cmd`**  
-  A minimal execution wrapper responsible for orchestrating script execution and ensuring compatibility across Windows environments where direct PowerShell execution may be restricted.
+- **`Default.cmd`** – execution wrapper  
+- **`installer.ps1`** – PowerShell provisioning logic
 
-- **`installer.ps1`**  
-  The core PowerShell script implementing system checks, privilege handling, WinGet bootstrap, software installation, and optional debloating logic.
-
-This separation keeps the execution flow explicit and predictable, avoiding hidden dependencies or implicit behaviors.
+The design prioritizes transparency, repeatability, and operational control.
 
 ---
 
-## Execution wrapper (`Default.cmd`)
+## Downloads
 
-The CMD wrapper acts as the entry point and ensures that the PowerShell script is executed from a consistent working directory while preserving command-line arguments.
+The implementation can be downloaded directly from the links below:
 
-```bat
-@echo off
-setlocal enabledelayedexpansion
+- **Default.cmd**  
+  https://melillopietro.github.io/assets/files/Default.cmd
 
-pushd "%~dp0" || exit /b 1
+- **installer.ps1**  
+  https://melillopietro.github.io/assets/files/installer.ps1
 
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0installer.ps1" %*
-
-set "rc=%errorlevel%"
-popd
-exit /b %rc%
 ---
 
-The complete implementation is available for direct download below.
+## Usage notes
 
-<div class="d-flex flex-wrap gap-2 my-4"> <a href="/assets/files/Default.cmd" class="btn btn-outline-primary btn-sm" download> ⬇ Download Default.cmd </a> <a href="/assets/files/installer.ps1" class="btn btn-outline-primary btn-sm" download> ⬇ Download installer.ps1 </a> </div>
+The scripts are provided as-is for educational and operational purposes.  
+Review and adapt them according to your security, governance, and compliance requirements before use.
+
+---
+
+## Conclusion
+
+This script-based approach demonstrates how native Windows tooling can be used to implement controlled and repeatable software provisioning workflows without relying on external frameworks or management platforms.
