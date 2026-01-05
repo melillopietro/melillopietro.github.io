@@ -44,6 +44,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0installer.ps1" %*
 set "rc=%errorlevel%"
 popd
 exit /b %rc%
+---
 
 The complete implementation is available for direct download below.
 
