@@ -11,8 +11,7 @@ A selection of technical articles published on external cybersecurity outlets,
 focused on Cyber Threat Intelligence, ransomware ecosystems, and security governance.
 
 ### Red Hot Cyber (Author Page)
-- Full list: https://www.redhotcyber.com/rhc/redazione/?author_filter=pietro-melillo
-
+- Full list: https://www.redhotcyber.com/post/author/pietro-melillo/ 
 
 ### Malpedia (Author Page)
 - Full list: https://malpedia.caad.fkie.fraunhofer.de/library?search=Pietro%20Melillo
