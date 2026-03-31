@@ -6,11 +6,12 @@ lang: en
 timezone: Europe/Zurich
 
 title: Pietro Melillo
-tagline: Chief Information Security Officer | PhD Researcher | Cyber Threat Intelligence
+tagline: Cybersecurity Leader, PhD Researcher, and Cyber Threat Intelligence Specialist
 
 description: >-
-  Cybersecurity professional specializing in Cyber Threat Intelligence,
-  security governance, ransomware analysis, and applied research.
+  Cybersecurity professional working at the intersection of security governance,
+  cyber threat intelligence, ransomware research, dark web monitoring, and
+  applied academic activity.
 
 url: "https://melillopietro.github.io"
 baseurl: ""
@@ -26,6 +27,9 @@ social:
   email: melillopietro@gmail.com
   links:
     - https://github.com/melillopietro
+    # - https://www.linkedin.com/in/TUO-LINKEDIN
+    # - https://scholar.google.com/citations?user=TUO-ID
+    # - https://orcid.org/TUO-ORCID
 
 # --- COPYRIGHT ---
 copyright:
@@ -42,7 +46,7 @@ webmaster_verifications:
 
 analytics:
   google:
-    id:
+    id: G-FPZMVDJ3NZ
   goatcounter:
     id:
   umami:
