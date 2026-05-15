@@ -4,51 +4,31 @@ icon: fas fa-microscope
 order: 2
 ---
 
-## Research
+## Academic Focus
 
-My research activity is centered on the study of **cyber threat intelligence**, with a particular focus on the **ransomware ecosystem**, **dark web dynamics**, and the observable behavior of cybercriminal actors.
+My research centers on the empirical study of **cyber threat intelligence**, specifically targeting the **ransomware ecosystem**, **dark web dynamics**, and the observable behavior of cybercriminal actors. 
 
-My work combines **empirical analysis**, **threat intelligence methodologies**, and **applied cybersecurity research** to investigate how adversarial ecosystems evolve over time, how they structure coercive and extortion-based operations, and how these dynamics can be systematically analyzed.
-
----
-
-## Research Interests
-
-My main research interests include:
-
-- Cyber Threat Intelligence (CTI)
-- Ransomware ecosystem analysis
-- Dark web monitoring and underground ecosystems
-- Threat actor behavior and operational evolution
-- Threat Intelligence Platforms (TIPs)
-- OSINT and CLOSINT methodologies
-- Data-driven models for cyber threat analysis
-- Adversarial infrastructures and observable disclosure dynamics
+Rather than treating cyber threats as isolated technical events, I approach them as complex socio-technical ecosystems shaped by infrastructure, incentives, adaptation, and observable behavioral patterns. 
 
 ---
 
-## Current Academic Focus
+## Ph.D. Research: The Ransomware Economy
 
-My current research is primarily dedicated to the **longitudinal analysis of ransomware activity**, with particular attention to:
+I am currently pursuing a Ph.D. in Cyber Threat Intelligence at the **University of Sannio**, with an expected completion in 2026. 
 
-- The structural evolution of ransomware groups  
-- Data Leak Sites (DLS) as observable disclosure infrastructures  
-- Extortion models and multi-extortion dynamics  
-- Threat actor operational patterns and ecosystem resilience  
-- Data-driven approaches for threat interpretation and prediction  
+**Thesis:** *Ecosystem Dynamics and Structural Resilience of the Ransomware Economy: A Longitudinal Multi-Method Analysis of the Observable Disclosure Surface (2020-2025)*.
 
-This work is conducted as part of my **PhD in Cyber Threat Intelligence** and is aimed at bridging academic inquiry with operational relevance.
-
----
-
-## Research Perspective
-
-Rather than treating cyber threats as isolated technical events, my research approaches them as **complex socio-technical ecosystems**, shaped by infrastructure, incentives, adaptation, and observable behavioral patterns.
-
-This perspective supports a more structured understanding of cybercriminal activity and contributes to the development of more robust intelligence-driven approaches to threat analysis.
+Key research areas include:
+* Advanced analysis of ransomware groups, threat actor behavior, and the evolution of attack patterns.
+* The study of extortion models and cybercriminal business dynamics.
+* Development of data-driven and statistical models for threat detection, attribution, and risk assessment.
+* Building and analyzing large-scale datasets for threat actor profiling and intelligence correlation.
 
 ---
 
-## Publications and Outputs
+## Applied Engineering & Threat Intelligence Platforms
 
-A selection of publications, technical contributions, and academic outputs is available across this website and in the dedicated **External Publications** section.
+A core component of my research involves translating theoretical models into operational tools. 
+
+* **Deepye Project:** Designed and developed a microservices-based Threat Intelligence Platform tailored for attack surface analysis, integrating OSINT and CLOSINT sources.
+* **Academic Supervision:** I actively co-supervise Master's theses focused on CTI platform development, dark web monitoring systems for data leak detection, and adversary simulation frameworks.
