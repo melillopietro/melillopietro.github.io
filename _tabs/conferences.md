@@ -28,8 +28,8 @@ The list is updated progressively and includes both upcoming engagements and sel
 | **Feb 28, 2026** | ANACI Bolzano | Bolzano, Italy | Cybersecurity awareness and digital risk for real estate administrators | — |
 | **May 9, 2025** | RHC Conference 2025 | Italy | "Un anno di DarkLab. Tra Intelligence e Threat Actors" | — |
 | **May 8, 2025** | RHC Conference 2025 | Italy | Workshop: "Come entrare nel Dark Web in sicurezza e accenni di CTI" | — |
-| **Apr 20, 2024** | RHC Talk | Italy | "Ransom Inside: collezionare i dati sul fenomeno del ransomware" | — |
-| **Oct 28, 2023** | LinuxDay AV | Avellino, Italy | "I dati della sanità italiana all'interno delle underground" | [Event page](https://irlug.it/blog/linux%20day/eventi/linux-day-2023) |
+| **Apr 20, 2024** | RHC Conference 2024 | Italy | "Ransom Inside: collezionare i dati sul fenomeno del ransomware" | — |
+| **Oct 28, 2023** | LinuxDay Avellino | Avellino, Italy | "I dati della sanità italiana all'interno delle underground" | [Event page](https://irlug.it/blog/linux%20day/eventi/linux-day-2023) |
 | **Jun 10, 2023** | RHC Conference 2023 | Cittaducale, Rieti, Italy | "L'impronta della sanità italiana nelle underground" | — |
 | **Oct 31, 2022** | Digital Security Festival 2022 | Italy | "Cyber Threat Intelligence: the fight against cyber threats passes through intelligence" | [Event materials](https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/) |
 | **Oct 22, 2022** | LinuxDay Benevento | Benevento, Italy | "HashCheck! An utility for V&V hashes" | [Event page](https://www.unisannio.it/it/eventi/linux-day-2022) |

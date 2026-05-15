@@ -30,6 +30,12 @@ The common thread across my teaching, supervision, and mentoring activity is the
 * Develop research-oriented material that connects academic theory with enterprise CTI operations.
 * Co-supervise thesis work on Cyber Threat Intelligence platforms, data leak detection, adversary simulation, ransomware analysis, and attack surface intelligence.
 
+#### Ph.D. Research
+
+| Academic Path | Thesis Title |
+| :--- | :--- |
+| **Ph.D. in Cyber Threat Intelligence** | *Ecosystem Dynamics and Structural Resilience of the Ransomware Economy* |
+
 #### Thesis Co-Supervision
 
 | Academic Year | Student | Thesis Title |
@@ -49,14 +55,28 @@ Through my role as **Chief Information Security Officer at Würth Italia**, I su
 
 The objective is to expose students to real organizational challenges while maintaining a structured academic approach, helping them connect university-level learning with practical cybersecurity operations.
 
+#### Thesis & Internship Supervision
+
+| Academic Year | Student | Thesis / Internship Topic |
+| :--- | :--- | :--- |
+| **2026/2027** | Nicole Bortolotti | To be defined |
+
 ---
 
 ### University of Trento
 **Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026 - Present)
 
-I also support students from the University of Trento who start internship and thesis activities at Würth Italia on cybersecurity-related topics. These initiatives are designed to combine academic research, professional mentoring, and practical exposure to enterprise security processes.
+I also support students from the University of Trento who start internship and thesis activities at Würth Italia on cybersecurity-related topics. These initiatives combine academic research, professional mentoring, and practical exposure to enterprise security processes.
 
 Typical areas of work include Cyber Threat Intelligence, security awareness, attack surface analysis, governance and compliance, security operations, and the application of structured methodologies to real-world cyber risk scenarios.
+
+#### Thesis & Internship Supervision
+
+| Academic Year | Student | Thesis / Internship Topic |
+| :--- | :--- | :--- |
+| **2025/2026** | Federico Gonzalez | To be defined |
+| **2025/2026** | David Brugnara | To be defined |
+| **2025/2026** | Francesco Mario Boldrin | To be defined |
 
 ---
 
