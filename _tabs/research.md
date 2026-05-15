@@ -1,5 +1,6 @@
 ---
 title: Research
+description: "Academic research on Cyber Threat Intelligence, ransomware ecosystems, dark web intelligence, and the structural resilience of cybercriminal economies."
 icon: fas fa-microscope
 order: 2
 ---

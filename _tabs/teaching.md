@@ -1,5 +1,6 @@
 ---
 title: Teaching
+description: "Teaching, thesis supervision, internships, and academic activity in Cyber Threat Intelligence, ransomware ecosystems, dark web intelligence, and cybersecurity governance."
 icon: fas fa-chalkboard-teacher
 order: 5
 ---

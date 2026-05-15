@@ -1,5 +1,6 @@
 ---
 title: External Publications
+description: "Selected external publications, technical contributions, author profiles, and media interviews on Cyber Threat Intelligence, ransomware, cybercrime, and digital risk."
 icon: fas fa-newspaper
 order: 4
 permalink: /external-publications/

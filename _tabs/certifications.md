@@ -1,5 +1,6 @@
 ---
 title: Certifications
+description: "Professional cybersecurity certifications covering executive security leadership, Cyber Threat Intelligence, incident response, offensive security, and SIEM platforms."
 icon: fas fa-certificate
 order: 3
 ---

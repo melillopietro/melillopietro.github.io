@@ -1,5 +1,6 @@
 ---
 title: Conferences & Speaking
+description: "Conference talks, workshops, and speaking engagements on Cyber Threat Intelligence, ransomware ecosystems, security governance, AI, and digital risk."
 icon: fas fa-microphone
 order: 6
 ---

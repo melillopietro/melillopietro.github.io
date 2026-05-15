@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About
+description: "Pietro Melillo profile: CISO, Cyber Threat Intelligence specialist, and Ph.D. researcher focused on ransomware ecosystems, dark web intelligence, NIS2, AI governance, and security operations."
 icon: fas fa-info-circle
 order: 1
 ---
