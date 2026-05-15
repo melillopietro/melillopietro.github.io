@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2026 Speaking Engagements: Navigating Ransomware Ecosystems and CTI"
+title: "2026 Speaking Engagements: Ransomware Ecosystems, CTI and Cybersecurity Governance"
 date: 2026-03-15 09:00:00 +0100
 categories: [Events, Cyber Threat Intelligence]
 tags: [conferences, ransomware, dark web, intelligence, speaking]
@@ -8,38 +8,68 @@ tags: [conferences, ransomware, dark web, intelligence, speaking]
 
 ## Abstract
 
-As the cyber threat landscape continues to mature, understanding the structural resilience of adversarial ecosystems becomes critical for both strategic governance and operational defense. Throughout 2026, I will be presenting my ongoing Ph.D. research and operational insights at several key industry and academic conferences across Italy.
+In 2026, my speaking activity focuses on the connection between **Cyber Threat Intelligence (CTI)**, ransomware ecosystem analysis, dark web intelligence, and cybersecurity governance.
 
-This year's talks will focus primarily on **Cyber Threat Intelligence (CTI)**, the evolution of the **Ransomware Economy**, and secure methodologies for **Dark Web analysis**.
+These sessions bring together my Ph.D. research on the structural resilience of the ransomware economy and my operational experience in enterprise security, with a practical objective: translating threat intelligence into better decisions, stronger awareness, and more resilient organizations.
 
 ---
 
-## Upcoming 2026 Conferences
+## 2026 Speaking Engagements
 
-I am pleased to share my current speaking schedule for the upcoming months. Whether you are a security professional, an academic researcher, or an enterprise leader, I look forward to connecting and discussing the operational realities of modern cyber threats.
+Below is an updated overview of my 2026 conference and training schedule. The list includes completed events as well as upcoming sessions planned for the rest of the year.
 
-### 1. ANACI Cagliari
+---
+
+## Completed Events
+
+### 1. ANACI 2026 — Bolzano
+
+- **Date:** February 28, 2026
+- **Location:** Bolzano, Italy
+- **Focus:** Cybersecurity awareness, organizational exposure, and practical risk scenarios for professional and real estate management contexts.
+- **Overview:** The session addressed the growing overlap between digital services, professional operations, and cyber risk. The goal was to provide a clear and practical view of how cyber threats can affect organizations that are not traditionally perceived as technology-driven, but are increasingly dependent on digital communication, online services, and data availability.
+
+### 2. ANACI Cagliari
+
 - **Date:** May 8, 2026
 - **Location:** Cagliari, Italy
-- **Overview:** I will be discussing the intersection of physical and digital security, focusing on threat intelligence applications and cyber risk governance in complex organizational environments. 
+- **Focus:** Strategic real estate cybersecurity, digital exposure, and governance.
+- **Overview:** I discussed the intersection between physical and digital security, with particular attention to threat intelligence, organizational risk, and the protection of data, communications, and operational continuity in complex professional environments.
 - [Event Reference](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/)
 
-### 2. Red Hot Cyber Conference 2026
+---
+
+## Upcoming Events
+
+### 3. Red Hot Cyber Conference 2026
+
 - **Date:** May 18, 2026
 - **Location:** Rome, Italy
-- **Overview:** I will be delivering two distinct sessions at this year's Red Hot Cyber Conference, blending hands-on technical tradecraft with high-level ecosystem analysis:
-  - **Workshop: "Safe Access to the Dark Web"** – A methodological guide focusing on operational security (OPSEC), intelligence gathering, and safe navigation in underground environments.
-  - **Keynote: "Ransomware Revolution"** – An analysis of the evolving business models, multi-extortion tactics, and observable infrastructure of modern ransomware operators.
+- **Focus:** Dark web intelligence and ransomware ecosystem analysis.
+- **Overview:** I will deliver two sessions at Red Hot Cyber Conference 2026, combining hands-on methodology with strategic analysis:
+  - **Workshop: "Come Entrare nel Dark Web in Sicurezza"** — A practical session focused on operational security (OPSEC), anonymity, secure access, and responsible intelligence collection in underground environments.
+  - **Keynote: "Ransomware Revolution"** — An analysis of ransomware evolution, multi-extortion models, cybercriminal business structures, and the observable dynamics of the ransomware economy.
 - [Event Reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/)
 
-### 3. CYBEARLY 2026
+### 4. ANACI 2026 — Brunico
+
+- **Date:** September 25-26, 2026
+- **Location:** Brunico, Italy
+- **Focus:** Cybersecurity awareness, professional risk, and digital resilience.
+- **Overview:** The Brunico session will continue the ANACI 2026 awareness path, focusing on practical cyber risks affecting professional environments, including email security, account compromise, data exposure, ransomware scenarios, and the operational impact of weak digital governance.
+
+### 5. CYBEARLY Forecasting 2027
+
 - **Date:** October 15-16, 2026
 - **Location:** Pescara, Italy
-- **Overview:** I will present findings on threat intelligence forecasting and the structural resilience of cybercriminal ecosystems, bridging data-driven academic research with actionable enterprise defense strategies.
-- [Event Reference](https://www.linkedin.com/posts/melillopietro_cybearly-cybearlyforecasting-cybearlyforecasting2027-activity-7458456872552067072-9hDS)
+- **Focus:** Cybersecurity forecasting, artificial intelligence, and digital governance.
+- **Overview:** I will contribute to the discussion on emerging cybersecurity trends, threat intelligence forecasting, and the resilience of cybercriminal ecosystems, connecting data-driven research with actionable strategies for enterprise defense and governance.
+- [Event Website](https://www.cybearly.com/forecasting-2027/)
 
 ---
 
 ## Further Information
 
-For the most up-to-date schedule, links to presentation slides, and post-event materials, please visit the dedicated [Conferences & Speaking](/conferences/) section of my website. I will update the repository with relevant whitepapers and slide decks as the events conclude.
+For the most up-to-date schedule, presentation materials, and post-event resources, please visit the dedicated [Conferences & Speaking](/conferences/) section of this website.
+
+I will continue to update this page as additional events, slide decks, and related materials become available.

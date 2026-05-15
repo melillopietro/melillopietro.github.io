@@ -8,26 +8,27 @@ tags: [windows, powershell, automation, winget, provisioning]
 
 ## Abstract
 
-In enterprise and operational Windows environments, manual software installation often introduces inconsistency, unnecessary overhead, and long-term configuration drift.  
-This article presents a lightweight and repeatable approach to **software provisioning on Windows**, using native tooling such as **PowerShell** and **WinGet** to support more controlled and standardized deployment workflows.
+Manual software installation on Windows workstations can quickly lead to inconsistent configurations, duplicated effort, and configuration drift over time.
+
+This article presents a simple and repeatable approach to **software provisioning on Windows** using **PowerShell** and **WinGet**. The objective is to keep workstation preparation transparent, controlled, and easy to adapt without introducing unnecessary complexity.
 
 ---
 
 ## Overview
 
-The solution is composed of two files:
+The solution is based on two files:
 
-- **`Default.cmd`** – execution wrapper  
-- **`installer.ps1`** – PowerShell provisioning logic
+- **`Default.cmd`** — execution wrapper
+- **`installer.ps1`** — PowerShell provisioning logic
 
-The implementation is designed to prioritize:
+The implementation is designed around four practical principles:
 
 - **repeatability**
 - **transparency**
 - **operational simplicity**
 - **administrative control**
 
-This makes it particularly useful in environments where fast and standardized workstation preparation is required without introducing additional deployment frameworks.
+This approach is useful when standardized workstation preparation is required, especially in environments where introducing a full deployment framework would be excessive for the operational need.
 
 ---
 
@@ -45,13 +46,14 @@ The implementation can be downloaded directly from the links below:
 
 ## Usage Notes
 
-The scripts are provided for **educational and operational purposes**.  
-Before use in production or managed environments, they should be reviewed and adapted according to internal **security**, **governance**, and **compliance** requirements.
+The scripts are provided for **educational and operational purposes**.
 
-It is also recommended to validate package sources, administrative permissions, and software baselines before large-scale deployment.
+Before using them in production or managed environments, they should be reviewed and adapted according to internal **security**, **governance**, and **compliance** requirements.
+
+It is also recommended to validate package sources, administrative permissions, and approved software baselines before any large-scale deployment.
 
 ---
 
 ## Conclusion
 
-This approach shows how native Windows tooling can be used to implement **controlled, lightweight, and repeatable software provisioning workflows**, reducing manual effort while preserving visibility and administrative control over the installation process.
+PowerShell and WinGet can provide an effective foundation for lightweight software provisioning on Windows. Used carefully, they help reduce manual work while preserving visibility and control over the installation process.
