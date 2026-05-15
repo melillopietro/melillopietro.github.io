@@ -42,4 +42,4 @@ I am pleased to share my current speaking schedule for the upcoming months. Whet
 
 ## Further Information
 
-For the most up-to-date schedule, links to presentation slides, and post-event materials, please visit the dedicated [Conferences & Speaking](/tabs/conferences/) section of my website. I will update the repository with relevant whitepapers and slide decks as the events conclude.
+For the most up-to-date schedule, links to presentation slides, and post-event materials, please visit the dedicated [Conferences & Speaking](/conferences/) section of my website. I will update the repository with relevant whitepapers and slide decks as the events conclude.
