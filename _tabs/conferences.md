@@ -15,7 +15,7 @@ The list is updated progressively and includes both upcoming engagements and sel
 
 | Date | Event / Conference | Location | Topic / Talk Title |
 | :--- | :--- | :--- | :--- |
-| **May 18, 2026** | [Red Hot Cyber Conference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Safe Access to the Dark Web" & Keynote: |
+| **May 18, 2026** | [Red Hot Cyber Conference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Safe Access to the Dark Web" |
 | **May 18, 2026** | [Red Hot Cyber Conference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Ransomware Revolution" |
 | **Sep 25–26, 2026** | ANACI Brunico | Brunico, Italy | Cybersecurity awareness and digital risk governance for real estate administrators |
 | **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, AI & Digital Governance Forecasting |
