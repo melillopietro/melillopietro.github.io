@@ -1,0 +1,31 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Hide Tags, Categories and Archives from Chirpy sidebar */
+#sidebar li.nav-item:has(a[href$="/tags/"]),
+#sidebar li.nav-item:has(a[href$="/tags"]),
+#sidebar li.nav-item:has(a[href$="/categories/"]),
+#sidebar li.nav-item:has(a[href$="/categories"]),
+#sidebar li.nav-item:has(a[href$="/archives/"]),
+#sidebar li.nav-item:has(a[href$="/archives"]) {
+  display: none !important;
+}
+
+/* Fallback: hide direct links if needed */
+#sidebar a[href$="/tags/"],
+#sidebar a[href$="/tags"],
+#sidebar a[href$="/categories/"],
+#sidebar a[href$="/categories"],
+#sidebar a[href$="/archives/"],
+#sidebar a[href$="/archives"] {
+  display: none !important;
+}
