@@ -29,7 +29,7 @@ The list is updated progressively and includes both upcoming engagements and sel
 | **May 8, 2026** | [ANACI Cagliari](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) | Cagliari, Italy | Strategic real estate cybersecurity and digital risk awareness | — |
 | **Feb 28, 2026** | ANACI Bolzano | Bolzano, Italy | Cybersecurity awareness and digital risk for real estate administrators | — |
 | **Oct 23, 2025** | [NetEye Conference 2025](https://www.wuerth-it.it/neteye-conference-2025/) | Verona, Italy | "Use Case Würth Italia – Driven UI for Threat Intelligence" | [Event page](https://www.wuerth-it.it/neteye-conference-2025/) |
-| **Sep 17, 2025** | ANACI Laives 26 | Laives, Italy | Cybersecurity awareness: "Incantesimi digitali e stregonerie informatiche" | — |
+| **Sep 17, 2025** | ANACI Laives | Laives, Italy | Cybersecurity awareness: "Incantesimi digitali e stregonerie informatiche" | — |
 | **May 9, 2025** | RHC Conference 2025 | Rome, Italy | "Un anno di DarkLab. Tra Intelligence e Threat Actors" | [Video](https://www.youtube.com/watch?v=m8Uc-S6RiZ8&t=14s&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **May 8, 2025** | RHC Conference 2025 | Rome, Italy | Workshop: "Come entrare nel Dark Web in sicurezza e accenni di CTI" | [Video](https://www.youtube.com/watch?v=JfuX8sqsRJ0&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **Apr 20, 2024** | RHC Conference 2024 | Rome, Italy | "Ransom Inside: collezionare i dati sul fenomeno del ransomware" | [Video](https://www.youtube.com/watch?v=NKWPG7PU5FU&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
