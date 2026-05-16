@@ -6,7 +6,7 @@ order: 4
 permalink: /external-publications/
 ---
 
-This page highlights selected external publications, technical contributions, and media interviews. These materials bring my research and professional activity into public, industry-oriented contexts.
+This page highlights selected external publications, technical contributions, and media interviews. These materials bring my research and professional activity into public, academic, and industry-oriented contexts.
 
 ---
 
@@ -23,6 +23,31 @@ I regularly publish technical analyses and commentary on threat intelligence, cy
 My Malpedia profile collects malware-related intelligence contributions and technical indexing activity.
 
 * [View Author Page on Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library?search=Pietro%20Melillo)
+
+---
+
+## Peer-Reviewed Scientific Publications
+
+### Journal of Information Security and Applications / Elsevier
+
+Academic research focused on ransomware ecosystems, adversarial tactics, threat intelligence, and empirical analysis of attack patterns across ransomware groups.
+
+* **The ransomware blueprint: Attack patterns and strategic variations across gangs**
+  * Published in *Journal of Information Security and Applications*, Volume 95, December 2025, Article 104264.
+  * [View Publication on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214212625003011)
+  * [View DOI](https://doi.org/10.1016/j.jisa.2025.104264)
+
+---
+
+## Technical Contributions and Industry Recognition
+
+### IBM QRadar / IBM TechXchange Community
+
+Technical contribution in the detection engineering domain, focused on Cobalt Strike activity, adversary simulation, and QRadar security content for enterprise detection use cases.
+
+* **Cobalt Strike: Whether it is a red team or an adversary, detect it with QRadar**
+  * Public IBM TechXchange Community post recognizing the contribution of the Italian SIOC team to Cobalt Strike detection content for IBM QRadar.
+  * [View Contribution on IBM Community](https://community.ibm.com/community/user/blogs/gladys-koskas1/2021/11/25/cobalt-strike-whether-it-is-a-red-team-or-a-threat)
 
 ---
 
