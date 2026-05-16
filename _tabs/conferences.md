@@ -28,12 +28,14 @@ The list is updated progressively and includes both upcoming engagements and sel
 | :--- | :--- | :--- | :--- | :--- |
 | **May 8, 2026** | [ANACI Cagliari](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) | Cagliari, Italy | Strategic real estate cybersecurity and digital risk awareness | — |
 | **Feb 28, 2026** | ANACI Bolzano | Bolzano, Italy | Cybersecurity awareness and digital risk for real estate administrators | — |
-| **May 9, 2025** | RHC Conference 2025 | Rome, Italy | "Un anno di DarkLab. Tra Intelligence e Threat Actors" | — |
-| **May 8, 2025** | RHC Conference 2025 | Rome, Italy | Workshop: "Come entrare nel Dark Web in sicurezza e accenni di CTI" | — |
-| **Apr 20, 2024** | RHC Conference 2024 | Rome, Italy | "Ransom Inside: collezionare i dati sul fenomeno del ransomware" | — |
+| **Sep 17, 2025** | ANACI Laives 26 | Laives, Italy | Cybersecurity awareness: "Incantesimi digitali e stregonerie informatiche" | — |
+| **May 9, 2025** | RHC Conference 2025 | Rome, Italy | "Un anno di DarkLab. Tra Intelligence e Threat Actors" | [Video](https://www.youtube.com/watch?v=m8Uc-S6RiZ8&t=14s&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
+| **May 8, 2025** | RHC Conference 2025 | Rome, Italy | Workshop: "Come entrare nel Dark Web in sicurezza e accenni di CTI" | [Video](https://www.youtube.com/watch?v=JfuX8sqsRJ0&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
+| **Apr 20, 2024** | RHC Conference 2024 | Rome, Italy | "Ransom Inside: collezionare i dati sul fenomeno del ransomware" | [Video](https://www.youtube.com/watch?v=NKWPG7PU5FU&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **Oct 28, 2023** | LinuxDay Avellino | Avellino, Italy | "I dati della sanità italiana all'interno delle underground" | [Event page](https://irlug.it/blog/linux%20day/eventi/linux-day-2023) |
-| **Jun 10, 2023** | RHC Conference 2023 | Cittaducale, Rieti, Italy | "L'impronta della sanità italiana nelle underground" | — |
-| **Oct 31, 2022** | Digital Security Festival 2022 | Italy | "Cyber Threat Intelligence: the fight against cyber threats passes through intelligence" | [Event materials](https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/) |
+| **Jun 10, 2023** | RHC Conference 2023 | Cittaducale, Rieti, Italy | "L'impronta della sanità italiana nelle underground" | [Video](https://www.youtube.com/watch?v=6R-AJWOEPYc&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
+| **May 23, 2023** | IUSI University | Remote, Italy | "Come i malware rubano i tuoi dati" | [Video](https://www.youtube.com/watch?v=gyvK8rFLUYI) |
+| **Oct 31, 2022** | Digital Security Festival 2022 | Remote, Italy | "Cyber Threat Intelligence: the fight against cyber threats passes through intelligence" | [Event materials](https://www.digitalsecurityfestival.it/locandine-degli-eventi-del-digital-security-festival-2022/) |
 | **Oct 22, 2022** | LinuxDay Benevento | Benevento, Italy | "HashCheck! An utility for V&V hashes" | [Event page](https://www.unisannio.it/it/eventi/linux-day-2022) |
 
 ---
