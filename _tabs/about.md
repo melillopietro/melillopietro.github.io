@@ -1,42 +1,155 @@
 ---
 layout: page
 title: About
-description: "Pietro Melillo profile: CISO, Cyber Threat Intelligence specialist, and Ph.D. researcher focused on ransomware ecosystems, dark web intelligence, NIS2, AI governance, and security operations."
+description: "Pietro Melillo profile: CISO, Cyber Threat Intelligence specialist, Ph.D. researcher, Cyber Mentor, academic lecturer, and cybersecurity community leader focused on CTI, GRC, ransomware, dark web intelligence, AI governance, and security operations."
 icon: fas fa-info-circle
 order: 1
 ---
 
 ## Executive Summary
 
-I work in cybersecurity as a CISO and Ph.D. researcher, with a focus on cyber threat intelligence, ransomware analysis, and enterprise security governance. My work connects operational security needs with applied research, using threat actor behavior, attack patterns, and large-scale data analysis to support risk-based decisions.
+I work in cybersecurity as a **Chief Information Security Officer (CISO)**, **Cyber Threat Intelligence specialist**, **Ph.D. researcher**, lecturer, and community contributor. My professional and academic activity sits at the intersection of enterprise security governance, intelligence-driven operations, ransomware and cybercrime research, dark web intelligence, AI governance, and cybersecurity awareness.
+
+My approach combines operational experience, academic research, and public dissemination. I work on cybersecurity not only as a technical discipline, but as a strategic function that supports business resilience, regulatory alignment, risk-based decision-making, and the protection of people, data, and critical organizational processes.
 
 ---
 
 ## Professional Leadership
 
-I currently serve as **Chief Information Security Officer (CISO)** for **Würth Italia Group Entities**, where I lead cybersecurity strategy, IT governance, and secure digital transformation.
+I currently serve as **Chief Information Security Officer (CISO)** for **Würth Italia Group Entities**, where I lead cybersecurity strategy, IT governance, and secure digital transformation across multiple business contexts.
 
 My operational focus includes:
 
-* Designing and executing multi-year roadmaps for NIS2 compliance, with specific attention to supply-chain security, incident handling, and business continuity.
-* Building enterprise AI governance processes aligned with the EU AI Act, including risk classification, AI DPIA activities, and model monitoring.
-* Developing a CTI-led security model that connects SIEM operations, threat hunting, and the IoC/IoA lifecycle.
-* Driving vulnerability management through risk-based prioritization and alignment with ISO/IEC 27001 requirements.
+* Designing and executing multi-year cybersecurity roadmaps aligned with business objectives, regulatory requirements, and organizational maturity.
+* Leading **NIS2** readiness and compliance activities, with specific attention to governance, risk management, supply-chain security, incident handling, business continuity, and executive reporting.
+* Building enterprise **AI governance** processes aligned with the **EU AI Act**, including risk classification, AI DPIA activities, model monitoring, auditability, and third-party AI/LLM risk management.
+* Developing an intelligence-driven security model that connects **Cyber Threat Intelligence**, SIEM operations, threat hunting, IoC/IoA lifecycle management, and incident response.
+* Driving risk-based **vulnerability management** across internal and external attack surfaces, using prioritization models based on business exposure, CVSS/EPSS signals, remediation SLAs, and executive-level metrics.
+* Supporting security culture and awareness initiatives that translate complex cyber risks into practical behaviors for employees, managers, and non-technical stakeholders.
+
+---
+
+## Areas of Expertise
+
+My work spans multiple areas of cybersecurity, combining strategic governance, operational defense, technical analysis, and research-oriented methodologies.
+
+| Area | Focus |
+| :--- | :--- |
+| **Cyber Threat Intelligence (CTI)** | Threat actor profiling, ransomware intelligence, IoC/IoA lifecycle, strategic and operational intelligence, MITRE ATT&CK mapping, intelligence-led decision support. |
+| **Governance, Risk & Compliance (GRC)** | NIS2, ISO/IEC 27001, risk assessment, supplier risk, cybersecurity roadmaps, executive reporting, control maturity and assurance. |
+| **Security Operations & Incident Response** | SIEM, threat hunting, detection workflows, incident handling, alert triage, enrichment, escalation and response coordination. |
+| **Dark Web & Cybercrime Intelligence** | Underground monitoring, data leak analysis, ransomware leak sites, credential exposure, cybercriminal ecosystems and adversarial communities. |
+| **Ransomware Ecosystem Research** | Longitudinal analysis of ransomware groups, extortion models, cybercriminal business dynamics, data-driven reconstruction of observable attack patterns. |
+| **Attack Surface & Vulnerability Management** | External exposure analysis, OSINT/CLOSINT enrichment, vulnerability prioritization, CVSS/EPSS-based reasoning, remediation governance. |
+| **Detection Engineering & SIEM** | IBM QRadar architectures, detection logic, correlation rules, IoC integration, intelligence enrichment and monitoring use cases. |
+| **AI Governance & Secure Innovation** | EU AI Act alignment, secure AI adoption, AI risk classification, AI DPIA, governance of LLM/API and third-party AI services. |
+| **Teaching, Awareness & Mentoring** | Academic lectures, professional courses, cybersecurity awareness, executive communication, student supervision and mentoring. |
 
 ---
 
 ## Research & Academic Activity
 
-As a **Ph.D. Researcher in Cyber Threat Intelligence** at the **University of Sannio**, my research focuses on the ecosystem dynamics and structural resilience of the ransomware economy. I use data-driven methods to study adversary behavior, extortion models, and the business logic behind cybercriminal operations.
+As a **Ph.D. Researcher in Cyber Threat Intelligence** at the **University of Sannio**, my research focuses on the ecosystem dynamics and structural resilience of the ransomware economy. I use empirical and data-driven methods to study adversary behavior, ransomware group evolution, extortion models, and the observable disclosure surface generated by cybercriminal operations.
 
-I also lecture in Master's programs in Cybersecurity, including at the **University of Rome Tor Vergata** and the **University of Sannio**, where I teach advanced topics related to CTI, dark web intelligence, and ransomware ecosystems.
+My research interests include:
+
+* Cyber Threat Intelligence methodologies and intelligence lifecycle models.
+* Ransomware ecosystems, cybercriminal business models, and multi-extortion strategies.
+* Dark web intelligence, data leak monitoring, and adversarial infrastructure analysis.
+* Large-scale datasets for threat actor profiling, attack pattern reconstruction, and intelligence correlation.
+* Data-driven and machine-learning-assisted approaches to detection, attribution support, and cyber risk assessment.
+* The relationship between technical capabilities, organizational exposure, and sectoral/geographical risk dynamics.
+
+I also serve as **Cultore della materia** at the **University of Sannio**, contributing to academic activities, teaching support, thesis supervision, and applied research in cybersecurity and Cyber Threat Intelligence.
+
+---
+
+## Teaching, Mentoring & Academic Supervision
+
+I lecture in cybersecurity programs and professional training contexts, with a strong focus on bridging academic theory and real-world cyber operations.
+
+Current and past teaching activity includes:
+
+* **Industry Lecturer – Master's in Cybersecurity and Privacy, University of Rome Tor Vergata**: advanced modules on Cyber Threat Intelligence, ransomware ecosystems, dark web intelligence, MITRE ATT&CK, threat hunting, and intelligence-driven incident response.
+* **Lecturer and Ph.D. Researcher – University of Sannio**: teaching and research activity on CTI, ransomware analysis, dark web monitoring, and intelligence-led detection and response.
+* **Cultore della materia – University of Sannio**: academic support, teaching collaboration, and thesis-related activities in cybersecurity and Cyber Threat Intelligence.
+* **Cyber Security Instructor – IUSI Corporate University**: professional training on cybersecurity, CTI, incident response, applied threat analysis, and offensive-security fundamentals.
+* **Thesis and internship supervision**: support for students working on CTI platforms, attack surface analysis, ransomware analysis, adversary simulation detection, and dark web data leak monitoring.
+
+---
+
+## Community Leadership & Public Dissemination
+
+Beyond enterprise and academic work, I contribute to cybersecurity communities, public awareness initiatives, and professional knowledge-sharing activities.
+
+### Red Hot Cyber & DarkLab
+
+I am **Head of DarkLab**, the Cyber Threat Intelligence team of the Red Hot Cyber community. DarkLab focuses on threat intelligence dissemination, dark web and cybercrime monitoring, adversary analysis, and awareness initiatives aimed at improving cyber resilience and public understanding of emerging threats.
+
+* [Red Hot Cyber author profile](https://www.redhotcyber.com/post/author/pietro-melillo/)
+* [RHC DarkLab public reference](https://www.redhotcyber.com/post/nasce-dark-lab-il-team-di-cyber-threat-intelligence-della-community-di-red-hot-cyber/)
+* [DarkLab LinkedIn company page](https://www.linkedin.com/company/105689497/)
+
+### Digital Club / Cyber Mentor
+
+I am a **Cyber Mentor for Digital Club**, contributing to community initiatives dedicated to cybersecurity leadership, communication, professional exchange, and executive-level cyber awareness.
+
+* [Digital Club Cyber Mentor profile](https://digital-club.it/mentor/pietro-melillo/)
+
+### IBM X-Force Exchange Contributions
+
+During my experience as **Cyber Security Architect and Senior Threat Intelligence Analyst at IBM**, I contributed to **IBM X-Force Exchange** through intelligence-sharing activities and multiple IoC collection and enrichment campaigns, supporting collaborative defense, detection improvement, and threat intelligence dissemination.
+
+---
+
+## Certifications, Validation & Professional Recognition
+
+My professional profile combines cybersecurity certifications, applied research, technical community contributions, and industry-recognized experience.
+
+Selected credentials and recognitions include:
+
+* **Certified Chief Information Security Officer (CCISO)** – EC-Council.
+* **Certified Ethical Hacker (CEH)** – EC-Council.
+* **Certified Threat Intelligence Analyst (CTIA)** – EC-Council.
+* **Certified Incident Handler** – EC-Council.
+* **IBM QRadar SIEM Foundation and Advanced certifications**.
+* **EC-Council Beta Tester** for certification and assessment validation activities.
+* **1st Place – CINI Smart City University Challenge (I-CiTies, 2020)** with the *City Shield* project, developed by the University of Sannio team.
+
+* [NetCom Group and CINI Smart City University Challenge reference](https://www.netcomgroup.eu/it/netcom-group-e-il-cini-smart-city-university-challenge/)
+
+---
+
+## Selected Professional Trajectory
+
+My professional path has evolved across security operations, threat intelligence, architecture, governance, and executive cybersecurity leadership.
+
+| Period | Role | Organization | Main Focus |
+| :--- | :--- | :--- | :--- |
+| **2023–Present** | Chief Information Security Officer | Würth Italia Group Entities | Cybersecurity strategy, NIS2, GRC, AI governance, CTI-led operations, vulnerability management and secure transformation. |
+| **2021–2023** | Cyber Security Architect & Senior Threat Intelligence Analyst | IBM | Cyber Threat Intelligence, IBM QRadar SIEM, dark web analysis, IoC enrichment, detection logic, X-Force Exchange contributions and executive reporting. |
+| **2019–2021** | Cyber Security Engineer & SOC Analyst | Yoroi | SOC operations, incident response, threat hunting, monitoring, reporting and operational security processes. |
+| **2022–2024** | Cyber Security Instructor | IUSI Corporate University | Cybersecurity training, CTI, incident response, applied labs, mentoring and academic-industry collaboration. |
 
 ---
 
 ## Core Competencies
 
+* Cybersecurity Strategy & Executive Security Leadership
 * Cyber Threat Intelligence (CTI) & Dark Web Analysis
-* Ransomware Ecosystems & Extortion Models
+* Ransomware Ecosystems & Cybercrime Research
 * Security Governance, NIS2 & ISO/IEC 27001
-* AI Governance & Secure-by-Design Methodologies
-* Incident Response & Security Operations
+* AI Governance, EU AI Act & Secure AI Adoption
+* Incident Response, SOC Operations & Threat Hunting
+* Detection Engineering, SIEM & IBM QRadar
+* Vulnerability Management & Attack Surface Intelligence
+* OSINT/CLOSINT Collection and Intelligence Correlation
+* Security Awareness, Teaching, Mentoring & Public Speaking
+
+---
+
+## Professional Positioning
+
+My work is driven by a simple principle: cybersecurity must be technically credible, intelligence-informed, and aligned with real organizational risk.
+
+I aim to connect three dimensions that are often treated separately: **executive security governance**, **operational threat intelligence**, and **academic research**. This combination allows me to translate complex threat ecosystems into actionable knowledge for organizations, students, professionals, and decision-makers.
