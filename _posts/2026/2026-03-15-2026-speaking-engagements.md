@@ -3,20 +3,33 @@ layout: post
 title: "2026 Speaking Engagements: Ransomware Ecosystems, CTI and Cybersecurity Governance"
 date: 2026-03-15 09:00:00 +0100
 categories: [Events, Cyber Threat Intelligence]
-tags: [conferences, ransomware, dark web, intelligence, speaking]
+tags: [conferences, ransomware, dark web, intelligence, speaking, cybersecurity-governance, digital-club, anaci, red-hot-cyber]
 ---
 
 ## Abstract
 
-In 2026, my speaking activity focuses on the connection between **Cyber Threat Intelligence (CTI)**, ransomware ecosystem analysis, dark web intelligence, and cybersecurity governance.
+In 2026, my speaking activity focuses on the connection between **Cyber Threat Intelligence (CTI)**, ransomware ecosystem analysis, dark web intelligence, cybersecurity awareness, AI governance, and enterprise security governance.
 
-These sessions bring together my Ph.D. research on the structural resilience of the ransomware economy and my operational experience in enterprise security, with a practical objective: translating threat intelligence into better decisions, stronger awareness, and more resilient organizations.
+These sessions bring together my Ph.D. research on the structural resilience of cybercriminal ecosystems and my operational experience in enterprise security, with a practical objective: translating threat intelligence, governance, and awareness into better decisions, stronger communication, and more resilient organizations.
 
 ---
 
 ## 2026 Speaking Engagements
 
-Below is an updated overview of my 2026 conference and training schedule. The list includes completed events as well as upcoming sessions planned for the rest of the year.
+Below is an updated overview of my 2026 conference, workshop, mentoring, and training schedule. The list includes completed events as well as upcoming sessions planned for the rest of the year.
+
+---
+
+## 2026 Schedule at a Glance
+
+| Date | Event | Location | Status | Main Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **February 28, 2026** | ANACI 2026 — Bolzano | Bolzano, Italy | Completed | Cybersecurity awareness and digital risk |
+| **May 8, 2026** | [ANACI Cagliari](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) | Cagliari, Italy | Completed | Strategic real estate cybersecurity |
+| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Upcoming | Dark web intelligence and ransomware ecosystems |
+| **June 11, 2026** | [Digital Club / Cyber — Brainbow CISO Edition](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/) | Bolzano, Italy | Upcoming | Cyber mentoring, CISO communication, leadership |
+| **September 25-26, 2026** | ANACI 2026 — Brunico | Brunico, Italy | Upcoming | Cybersecurity awareness and digital resilience |
+| **October 15-16, 2026** | [CYBEARLY Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Upcoming | Cybersecurity, AI and digital governance forecasting |
 
 ---
 
@@ -51,20 +64,43 @@ Below is an updated overview of my 2026 conference and training schedule. The li
   - **Keynote: "Ransomware Revolution"** — An analysis of ransomware evolution, multi-extortion models, cybercriminal business structures, and the observable dynamics of the ransomware economy.
 - [Event Reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/)
 
-### 4. ANACI 2026 — Brunico
+### 4. Digital Club / Cyber — Brainbow CISO Edition
+
+- **Date:** June 11, 2026
+- **Location:** Bolzano, Italy
+- **Role:** Cyber Mentor.
+- **Event:** "Efficacia Comunicativa: Brainbow CISO Edition — Bolzano".
+- **Focus:** Cybersecurity leadership, effective communication, CISO-level interaction, and the ability to translate cyber risk into clear, actionable messages for business stakeholders.
+- **Overview:** I will participate as a **Cyber Mentor** in the Digital Club / Cyber initiative dedicated to communication effectiveness for cybersecurity leaders. The event focuses on improving how CISOs, Security Managers, SOC Managers, and cyber professionals communicate risk, priorities, and strategic decisions across technical and non-technical audiences.
+- **Professional Profile:** [Pietro Melillo — Digital Club Cyber Mentor](https://digital-club.it/mentor/pietro-melillo/)
+- **Event Page:** [Efficacia Comunicativa: Brainbow CISO Edition — Bolzano](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/)
+
+### 5. ANACI 2026 — Brunico
 
 - **Date:** September 25-26, 2026
 - **Location:** Brunico, Italy
 - **Focus:** Cybersecurity awareness, professional risk, and digital resilience.
 - **Overview:** The Brunico session will continue the ANACI 2026 awareness path, focusing on practical cyber risks affecting professional environments, including email security, account compromise, data exposure, ransomware scenarios, and the operational impact of weak digital governance.
 
-### 5. CYBEARLY Forecasting 2027
+### 6. CYBEARLY Forecasting 2027
 
 - **Date:** October 15-16, 2026
 - **Location:** Pescara, Italy
 - **Focus:** Cybersecurity forecasting, artificial intelligence, and digital governance.
-- **Overview:** I will contribute to the discussion on emerging cybersecurity trends, threat intelligence forecasting, and the resilience of cybercriminal ecosystems, connecting data-driven research with actionable strategies for enterprise defense and governance.
+- **Overview:** I will contribute to the discussion on emerging cybersecurity trends, threat intelligence forecasting, AI governance, and the resilience of cybercriminal ecosystems, connecting data-driven research with actionable strategies for enterprise defense and governance.
 - [Event Website](https://www.cybearly.com/forecasting-2027/)
+
+---
+
+## Thematic Areas Covered in 2026
+
+Across the 2026 speaking engagements, the main thematic areas include:
+
+- **Cyber Threat Intelligence and dark web intelligence**, with a focus on underground ecosystems, OPSEC, intelligence collection, and adversary analysis.
+- **Ransomware ecosystem analysis**, including multi-extortion models, Ransomware-as-a-Service, cybercriminal specialization, and threat actor evolution.
+- **Cybersecurity awareness and governance**, especially for professional associations, real estate administrators, and organizations increasingly exposed to digital risk.
+- **CISO communication and cyber leadership**, with emphasis on translating cyber risk into understandable, actionable, and business-aligned messages.
+- **AI governance and digital security forecasting**, connecting emerging technologies, regulatory pressure, and strategic resilience.
 
 ---
 

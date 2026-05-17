@@ -17,8 +17,18 @@ The list is updated progressively and includes both upcoming engagements and sel
 | :--- | :--- | :--- | :--- |
 | **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Safe Access to the Dark Web" |
 | **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Ransomware Revolution" |
+| **Jun 11, 2026** | [Digital Club / Cyber – Brainbow CISO Edition](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/) | Bolzano, Italy | Cyber Mentor for "Efficacia Comunicativa: Brainbow CISO Edition (Bolzano)" |
 | **Sep 25–26, 2026** | ANACI Brunico | Brunico, Italy | Cybersecurity awareness and digital risk governance for real estate administrators |
 | **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, AI & Digital Governance Forecasting |
+
+### Featured Upcoming Engagement: Digital Club / Cyber
+
+On **June 11, 2026**, I will participate as a **Cyber Mentor** in the Digital Club / Cyber community event **"Efficacia Comunicativa: Brainbow CISO Edition (Bolzano)"**, hosted at the **Faculty of Engineering of the Free University of Bozen-Bolzano**.
+
+The event is designed for **CISOs, Security Managers, SOC Managers, and cybersecurity-related C-level profiles**, with an interactive format focused on communication effectiveness, social styles, leadership, and peer-to-peer discussion among security professionals. The agenda includes a welcome session, a plenary on behavioral methods, Cyber Mentor-led discussion panels, an interactive exercise on communicating security topics to other C-level stakeholders, lessons learned from the working tables, and an **AperiCISO Networking** session.
+
+* [Cyber Mentor profile – Pietro Melillo](https://digital-club.it/mentor/pietro-melillo/)
+* [Event page – Efficacia Comunicativa: Brainbow CISO Edition (Bolzano)](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/)
 
 ---
 
