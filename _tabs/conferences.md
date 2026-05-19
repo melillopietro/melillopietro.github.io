@@ -15,8 +15,6 @@ The list is updated progressively and includes both upcoming engagements and sel
 
 | Date | Event / Conference | Location | Topic / Talk Title |
 | :--- | :--- | :--- | :--- |
-| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Safe Access to the Dark Web" |
-| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Ransomware Revolution" |
 | **Jun 11, 2026** | [Digital Club / Cyber – Brainbow CISO Edition](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/) | Bolzano, Italy | Cyber Mentor for "Efficacia Comunicativa: Brainbow CISO Edition (Bolzano)" |
 | **Sep 25–26, 2026** | ANACI Brunico | Brunico, Italy | Cybersecurity awareness and digital risk governance for real estate administrators |
 | **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, AI & Digital Governance Forecasting |
@@ -36,6 +34,8 @@ The event is designed for **CISOs, Security Managers, SOC Managers, and cybersec
 
 | Date | Event / Conference | Location | Topic / Talk Title | Resources |
 | :--- | :--- | :--- | :--- | :--- |
+| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Safe Access to the Dark Web" | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
+| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: "Ransomware Revolution" | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
 | **May 8, 2026** | [ANACI Cagliari](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) | Cagliari, Italy | Strategic real estate cybersecurity and digital risk awareness | — |
 | **Feb 28, 2026** | ANACI Bolzano | Bolzano, Italy | Cybersecurity awareness and digital risk for real estate administrators | — |
 | **Oct 23, 2025** | [NetEye Conference 2025](https://www.wuerth-it.it/neteye-conference-2025/) | Verona, Italy | "Use Case Würth Italia – Driven UI for Threat Intelligence" | [Event page](https://www.wuerth-it.it/neteye-conference-2025/) |
