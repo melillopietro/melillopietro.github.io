@@ -83,9 +83,9 @@ Typical areas of work include Cyber Threat Intelligence, security awareness, att
 
 | Academic Year | Student | Thesis / Internship Topic |
 | :--- | :--- | :--- |
-| **2025/2026** | Federico Gonzalez | To be defined |
+| **2025/2026** | Federico Gonzalez | *SPEAR: Simulation of Phishing Environments for Awareness and Risk Analysis* |
 | **2025/2026** | David Brugnara | To be defined |
-| **2025/2026** | Francesco Mario Boldrin | To be defined |
+| **2025/2026** | Francesco Mario Boldrin | *From Reactive to Proactive: Exploring a Behavior-Centered Approach to Ransomware On-Chain Monitoring* |
 
 ---
 
