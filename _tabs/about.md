@@ -152,4 +152,4 @@ My professional path has evolved across security operations, threat intelligence
 
 My work is driven by a simple principle: cybersecurity must be technically credible, intelligence-informed, and aligned with real organizational risk.
 
-I aim to connect three dimensions that are often treated separately: **executive security governance**, **operational threat intelligence**, and **academic research**. This combination allows me to translate complex threat ecosystems into actionable knowledge for organizations, students, professionals, and decision-makers.
+I aim to connect three dimensions that are often treated separately: **executive security governance**, **operational threat intelligence**, and **academic research**. This combination allows me to translate complex threat ecosystems into actionable knowledge for organizations, students, professionals, and decision-makers . 

@@ -57,6 +57,6 @@ The event was designed for **CISOs, Security Managers, SOC Managers, and cyberse
 | :--- | :--- | :--- | :--- |
 | **2023–Present** | University of Rome Tor Vergata – Master's in Cybersecurity and Privacy | Rome, Italy | Cyber Threat Intelligence, ransomware ecosystems, dark web intelligence, OSINT and adversary analysis |
 | **2023–Present** | University of Sannio | Benevento, Italy | Cyber Threat Intelligence, ransomware research, dark web monitoring, intelligence-driven detection and response |
-| **2022–2024** | IUSI Corporate University | Ferrara, Italy | Cybersecurity, penetration testing, incident response and applied threat intelligence |
+| **2022–2024** | IUSI Corporate University | Ferrara, Italy | Cybersecurity, penetration testing, incident response and applied threat intelligence  |
 
 > This page is updated as new talks, workshops, and conference activities are confirmed.
