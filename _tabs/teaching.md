@@ -21,7 +21,7 @@ This section includes university teaching, academic supervision, Ph.D. research 
 
 ---
 
-### University of Rome Tor Vergata
+### [University of Rome Tor Vergata](https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html)
 **Industry Lecturer – Master's in Cybersecurity and Privacy** (02/2023 - Present)
 
 * Design and deliver advanced academic modules on Cyber Threat Intelligence, ransomware ecosystems, and dark web intelligence.
