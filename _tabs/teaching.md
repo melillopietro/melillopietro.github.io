@@ -68,7 +68,7 @@ The objective is to expose students to real organizational challenges while main
 
 | Academic Year | Student | Thesis / Internship Topic |
 | :--- | :--- | :--- |
-| **2026/2027** | Nicole Bortolotti | To be defined |
+| **2026/2027** | Nicole Bortolotti | *The Ransomware Economy: Criminal Business Models and New Corporate Responsibilities after NIS2* |
 
 ---
 
@@ -84,7 +84,7 @@ Typical areas of work include Cyber Threat Intelligence, security awareness, att
 | Academic Year | Student | Thesis / Internship Topic |
 | :--- | :--- | :--- |
 | **2025/2026** | Federico Gonzalez | *SPEAR: Simulation of Phishing Environments for Awareness and Risk Analysis* |
-| **2025/2026** | David Brugnara | To be defined |
+| **2025/2026** | David Brugnara | *RansomPly: An Integrated Monitor for Supply Chain Attacks* |
 | **2025/2026** | Francesco Mario Boldrin | *From Reactive to Proactive: Exploring a Behavior-Centered Approach to Ransomware On-Chain Monitoring* |
 
 ---
