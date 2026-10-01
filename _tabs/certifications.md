@@ -1,29 +1,29 @@
 ---
 title: Certifications
-description: "Professional cybersecurity certifications covering executive security leadership, Cyber Threat Intelligence, incident response, offensive security, and SIEM platforms."
+description: "Professional cybersecurity certifications spanning executive security leadership, Cyber Threat Intelligence, incident response, offensive security, and SIEM."
 icon: fas fa-certificate
 order: 3
 ---
 
-This page summarizes the main professional certifications supporting my work in cybersecurity leadership, threat intelligence, incident response, and technical security operations.
+My certifications reflect the areas in which I have worked most extensively: security leadership, Cyber Threat Intelligence, incident response, offensive security, and enterprise monitoring.
 
 ---
 
-## Executive Leadership & Governance
+## Executive Security Leadership
 
 * **Certified Chief Information Security Officer (CCISO)** – EC-Council
 
 ## Cyber Threat Intelligence & Incident Response
 
 * **Certified Threat Intelligence Analyst (CTIA)** – EC-Council
-* **Certified Incident Handler (ECIH)** – EC-Council
+* **EC-Council Certified Incident Handler (ECIH)** – EC-Council
 
-## Offensive Security & Technical Foundations
+## Offensive Security
 
 * **Certified Ethical Hacker (CEH)** – EC-Council
 * **Red Teaming Active Directory for Beginners** – SecurityCert
 
-## Security Monitoring & SIEM Platforms
+## Security Monitoring & SIEM
 
 * **IBM QRadar SIEM Foundation Certification** – IBM
 * **IBM QRadar SIEM Advanced Certification** – IBM

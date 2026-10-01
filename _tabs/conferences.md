@@ -5,11 +5,11 @@ icon: fas fa-microphone
 order: 6
 ---
 
-This page collects my **conference talks, workshops, academic presentations, and public speaking activities** across Cyber Threat Intelligence, ransomware ecosystems, dark web intelligence, security governance, artificial intelligence, and digital risk.
+I speak at industry conferences, academic events, professional communities, and training programs on **Cyber Threat Intelligence, ransomware, dark web intelligence, cybersecurity governance, artificial intelligence, and digital risk**.
 
-My speaking activities combine **technical research, operational cybersecurity experience, and security leadership**, with a particular focus on translating complex cyber threats into practical insights for technical teams, executives, professionals, and academic audiences.
+My talks bring together research, operational experience, and security leadership, with the aim of making complex cyber threats understandable and useful to technical teams, executives, professionals, students, and non-technical audiences.
 
-The list is updated progressively and includes both upcoming engagements and selected past talks delivered across industry conferences, academic events, professional communities, and cybersecurity training programs.
+This page includes upcoming engagements and a selection of past talks and workshops.
 
 ---
 
@@ -25,15 +25,15 @@ The list is updated progressively and includes both upcoming engagements and sel
 
 ### ANACI National Congress – Le Vette dell'Amministrazione
 
-On **September 26, 2026**, I spoke together with **Giulia Lombardozzi** at the **ANACI National Congress – "Le Vette dell'Amministrazione"**, held in Brunico, Italy.
+On **September 26, 2026**, I spoke with **Giulia Lombardozzi** at the **ANACI National Congress – "Le Vette dell'Amministrazione"**, held in Brunico, Italy.
 
-Our talk, **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, explored how information stolen from professionals and organizations can move from compromised devices to underground cybercrime ecosystems.
+Our talk, **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, explored how information stolen from professionals and organizations can move from compromised devices into underground cybercrime ecosystems.
 
-The session focused on the relationship between **infostealer malware, stolen credentials, dark web exposure, access to management platforms, social engineering, and increasingly credible digital fraud**.
+The session focused on the relationship between **infostealer malware, stolen credentials, dark web exposure, access to management platforms, social engineering, and digital fraud**.
 
 Using practical examples and a real-world case analyzed for preventive purposes, we showed how a single compromised credential can expose much more than an account: documents, suppliers, payment processes, personal data, and trusted professional relationships can all become part of a wider attack chain.
 
-The talk was designed to translate cyber threat intelligence into practical risk awareness for real estate administrators and other non-technical professionals.
+The aim was to translate cyber threat intelligence into practical risk awareness for real estate administrators and other non-technical professionals.
 
 * [LinkedIn – Event recap](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-activity-7509855296010407936-XsZF)
 
@@ -64,7 +64,7 @@ The talk was designed to translate cyber threat intelligence into practical risk
 
 ## Academic & Teaching Activities
 
-Alongside conference speaking, I contribute to academic and professional education activities focused on **Cyber Threat Intelligence, ransomware research, dark web intelligence, adversary analysis, and applied cybersecurity**.
+Alongside conference speaking, I contribute to academic and professional education in **Cyber Threat Intelligence, ransomware research, dark web intelligence, adversary analysis, and applied cybersecurity**.
 
 | Period | Institution / Program | Location | Focus |
 | :--- | :--- | :--- | :--- |
@@ -76,7 +76,7 @@ Alongside conference speaking, I contribute to academic and professional educati
 
 ## Main Speaking Topics
 
-My talks and workshops primarily focus on:
+My talks and workshops mainly cover:
 
 - **Cyber Threat Intelligence (CTI)**
 - **Ransomware ecosystems and cybercrime**
@@ -85,8 +85,8 @@ My talks and workshops primarily focus on:
 - **Infostealers and credential exposure**
 - **Supply-chain cybersecurity risk**
 - **Security governance and cyber risk management**
-- **Artificial Intelligence and cybersecurity**
-- **Threat Intelligence for executive decision-making**
+- **Artificial intelligence and cybersecurity**
+- **Threat intelligence for executive decision-making**
 - **Cybersecurity awareness for non-technical professionals**
 
 ---

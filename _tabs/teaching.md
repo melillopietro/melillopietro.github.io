@@ -5,13 +5,11 @@ icon: fas fa-chalkboard-teacher
 order: 5
 ---
 
-## Teaching Philosophy
+## Teaching Approach
 
-My teaching activity focuses on connecting academic foundations with operational cybersecurity practice. I work with students, professionals, and executive audiences to move beyond abstract models and understand how adversarial ecosystems, threat intelligence processes, and enterprise security programs operate in real environments.
+My teaching connects academic foundations with operational cybersecurity practice. I work with students, professionals, and executive audiences, using real cases and structured exercises to show how threat intelligence, adversary behavior, security operations, and governance work in practice.
 
-The common thread across my teaching, supervision, mentoring, and professional training activity is the translation of complex cybersecurity topics into structured, evidence-based learning paths: from **Cyber Threat Intelligence**, **dark web intelligence**, **ransomware ecosystems**, and **incident response** to **vulnerability management**, **security governance**, **attack surface analysis**, and **digital risk awareness**.
-
-My approach combines academic rigor, practical laboratories, case-based analysis, and operational experience matured across enterprise cybersecurity, security operations, threat intelligence, and governance functions.
+The subjects I cover most often include **Cyber Threat Intelligence, dark web intelligence, ransomware ecosystems, incident response, vulnerability management, security governance, attack surface analysis, and digital risk**. Depending on the audience, lessons may include practical laboratories, case analysis, intelligence workflows, and discussion of how technical findings affect risk and decision-making.
 
 ---
 
@@ -22,7 +20,7 @@ This section includes university teaching, academic supervision, Ph.D. research 
 ---
 
 ### [University of Rome Tor Vergata](https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html)
-**Industry Lecturer – Master's in Cybersecurity and Privacy** (02/2023 - Present)
+**Industry Lecturer – Master's in Cybersecurity and Privacy** (02/2023–Present)
 
 * Design and deliver advanced academic modules on Cyber Threat Intelligence, ransomware ecosystems, and dark web intelligence.
 * Integrate CTI frameworks such as MITRE ATT&CK and the cyber kill chain with real-world datasets and practical analysis workflows.
@@ -58,11 +56,11 @@ This section includes university teaching, academic supervision, Ph.D. research 
 ---
 
 ### Free University of Bozen-Bolzano
-**Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026 - Present)
+**Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026–Present)
 
 Through my role as **Chief Information Security Officer at Würth Italia**, I support thesis and internship activities involving students from the Free University of Bozen-Bolzano. These projects are developed within an enterprise cybersecurity context and focus on applied topics such as security governance, cyber risk management, vulnerability management, threat intelligence, and secure digital transformation.
 
-The objective is to expose students to real organizational challenges while maintaining a structured academic approach, helping them connect university-level learning with practical cybersecurity operations.
+The goal is to give students direct exposure to real organizational challenges while preserving a clear academic structure and linking university study with practical cybersecurity work.
 
 #### Thesis & Internship Supervision
 
@@ -73,9 +71,9 @@ The objective is to expose students to real organizational challenges while main
 ---
 
 ### University of Trento
-**Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026 - Present)
+**Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026–Present)
 
-I also support students from the University of Trento who start internship and thesis activities at Würth Italia on cybersecurity-related topics. These initiatives combine academic research, professional mentoring, and practical exposure to enterprise security processes.
+I also support students from the University of Trento who undertake internship and thesis activities at Würth Italia on cybersecurity-related topics. These initiatives combine academic research, professional mentoring, and practical exposure to enterprise security processes.
 
 Typical areas of work include Cyber Threat Intelligence, security awareness, attack surface analysis, governance and compliance, security operations, and the application of structured methodologies to real-world cyber risk scenarios.
 
@@ -89,13 +87,7 @@ Typical areas of work include Cyber Threat Intelligence, security awareness, att
 
 ---
 
-## Professional Courses & Training for Organizations
-
-This section separates professional courses, academy programs, and training activities delivered for external organizations from formal university teaching and academic supervision.
-
-The objective of these courses is to provide professionals, analysts, students, and cybersecurity practitioners with structured and practical learning paths on threat intelligence, dark web analysis, ransomware ecosystems, underground communities, cybercrime, and intelligence-driven security operations.
-
----
+## Professional Courses & Training
 
 ### Red Hot Cyber Academy
 **Instructor – Dark Web & Cyber Threat Intelligence Courses**
@@ -111,9 +103,9 @@ Red Hot Cyber is an Italian cybersecurity community and media organization focus
 
 ---
 
-#### Dark Web & Cyber Threat Intelligence – Live Class
+#### Live Class
 
-The **Live Class** version is an intermediate-level course designed to provide participants with technical, operational, and strategic skills for understanding the dark web and Cyber Threat Intelligence. The course combines instructor-led lessons, practical analysis workflows, and intelligence-oriented exercises.
+The **Live Class** is an intermediate course that combines instructor-led lessons, practical analysis workflows, and intelligence-focused exercises on the dark web and Cyber Threat Intelligence.
 
 **Main characteristics**
 
@@ -154,9 +146,9 @@ The course is also connected to the **DarkLab Intelligence Laboratory**, an oper
 
 ---
 
-#### Dark Web & Cyber Threat Intelligence – E-Learning
+#### E-Learning
 
-The **E-Learning** version is a basic-level course designed for learners who want to approach dark web intelligence and Cyber Threat Intelligence through a structured, accessible, and self-paced format.
+The **E-Learning** version offers a structured, self-paced introduction to dark web intelligence and Cyber Threat Intelligence.
 
 **Main characteristics**
 
@@ -194,7 +186,7 @@ The course is intended for people who want to understand the fundamentals of dar
 ---
 
 ### IUSI Corporate University (Ferrara, Italy)
-**Cyber Security Instructor** (10/2022 - 10/2024)
+**Cyber Security Instructor** (10/2022–10/2024)
 
 * Designed and delivered advanced training programs in cybersecurity and Cyber Threat Intelligence, including incident response, threat analysis, and offensive security fundamentals.
 * Supervised students on applied cybersecurity projects, combining academic rigor with practical threat intelligence and penetration testing workflows.
@@ -220,19 +212,15 @@ The course is intended for people who want to understand the fundamentals of dar
 
 ---
 
-## Teaching Methodology
+## Teaching Method
 
-My teaching methodology is built around four principles:
+My teaching method is built around four recurring elements:
 
-1. **Operational realism** — lessons are grounded in real adversary behavior, public intelligence sources, enterprise security challenges, and current threat scenarios.
-2. **Structured analysis** — students are guided through repeatable intelligence workflows, from collection and enrichment to reporting and decision support.
-3. **Practical experimentation** — courses include hands-on activities, case studies, laboratories, and exercises designed to develop analytical autonomy.
-4. **Strategic translation** — technical findings are connected to governance, risk management, executive communication, and organizational resilience.
+1. **Real cases** — lessons are grounded in adversary behavior, public intelligence sources, enterprise security challenges, and current threat scenarios.
+2. **Repeatable analysis** — students work through structured workflows, from collection and enrichment to reporting and decision support.
+3. **Hands-on work** — courses include practical exercises, case studies, and laboratories that develop analytical independence.
+4. **Context** — technical findings are connected to governance, risk management, executive communication, and organizational resilience.
 
 ---
 
-## Mentoring & Educational Impact
-
-Across academic programs, professional training, and thesis supervision, my objective is to help students and professionals develop a mature understanding of cybersecurity as both a technical and strategic discipline.
-
-The goal is not only to teach tools or concepts, but to build the ability to interpret adversarial behavior, structure evidence, communicate intelligence, and support security decisions in complex organizational environments.
+Across academic programs, professional training, and thesis supervision, my aim is not simply to teach tools or terminology, but to help students and professionals learn how to interpret evidence, understand adversary behavior, communicate findings, and support security decisions.

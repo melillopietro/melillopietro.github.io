@@ -7,69 +7,33 @@ order: 2
 
 ## Research Profile
 
-My research and professional activity are positioned at the intersection of **Cyber Threat Intelligence**, **security governance**, **security operations**, and **digital risk management**.
+My research sits at the intersection of **Cyber Threat Intelligence**, **security governance**, **security operations**, and **digital risk management**.
 
-While my doctoral work investigates the ransomware ecosystem in depth, my broader research agenda is not limited to ransomware economics. It extends across multiple areas of cybersecurity, including adversary behavior, dark web intelligence, attack surface analysis, SIEM-driven detection, vulnerability management, incident response, regulatory compliance, AI governance, and security awareness.
+My doctoral work focuses on the ransomware ecosystem, while my broader research interests also include adversary behavior, dark web intelligence, attack surface analysis, SIEM-driven detection, vulnerability management, incident response, regulatory compliance, AI governance, and security awareness.
 
-I approach cybersecurity as a **socio-technical discipline**: cyber threats are not only technical events, but the result of interactions between attackers, infrastructure, incentives, organizational exposure, defensive maturity, regulation, and human behavior. This perspective allows me to connect academic research with operational cybersecurity, executive decision-making, and real-world resilience.
+I approach cybersecurity as a **socio-technical discipline**. Technical indicators matter, but so do attacker incentives, organizational exposure, defensive maturity, regulation, and human behavior. This perspective helps me connect academic research with operational security and decision-making.
 
 ---
 
 ## Areas of Specialization
 
-My work spans several complementary domains of cybersecurity. The following map provides an indicative view of my current specialization profile across research, professional practice, teaching, and applied engineering.
+My work spans several related areas rather than a fixed set of separate disciplines. The main ones are:
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 28px; margin: 24px 0;">
-  <div style="width: 230px; height: 230px; border-radius: 50%; background: conic-gradient(#0f3d5e 0% 25%, #1d6f8f 25% 45%, #2b9ab2 45% 62%, #46b3c8 62% 77%, #76c7d7 77% 87%, #9bd8e4 87% 95%, #c7edf3 95% 100%); box-shadow: 0 8px 24px rgba(0,0,0,0.15);"></div>
-  <div style="min-width: 280px; max-width: 620px;">
-    <table>
-      <thead>
-        <tr>
-          <th>Area</th>
-          <th style="text-align: right;">Focus</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Cyber Threat Intelligence & Adversary Analysis</strong></td>
-          <td style="text-align: right;">25%</td>
-        </tr>
-        <tr>
-          <td><strong>Governance, Risk & Compliance</strong></td>
-          <td style="text-align: right;">20%</td>
-        </tr>
-        <tr>
-          <td><strong>Security Operations, SIEM & Incident Response</strong></td>
-          <td style="text-align: right;">17%</td>
-        </tr>
-        <tr>
-          <td><strong>Dark Web, OSINT/CLOSINT & Exposure Intelligence</strong></td>
-          <td style="text-align: right;">15%</td>
-        </tr>
-        <tr>
-          <td><strong>Attack Surface, Vulnerability & Risk Prioritization</strong></td>
-          <td style="text-align: right;">10%</td>
-        </tr>
-        <tr>
-          <td><strong>Malware, Detection Engineering & Adversary Simulation</strong></td>
-          <td style="text-align: right;">8%</td>
-        </tr>
-        <tr>
-          <td><strong>Security Awareness, Teaching & Executive Communication</strong></td>
-          <td style="text-align: right;">5%</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-> The percentages are indicative and represent the relative weight of my current research, professional, and teaching activities. They are not intended as rigid boundaries: many projects combine several areas, especially CTI, GRC, detection engineering, and risk-based decision-making.
+| Area | Main Focus |
+| :--- | :--- |
+| **Cyber Threat Intelligence & Adversary Analysis** | Threat actors, TTPs, intelligence collection, correlation, and reporting |
+| **Ransomware & Cybercriminal Ecosystems** | RaaS, extortion models, actor dynamics, victim disclosures, and ecosystem resilience |
+| **Dark Web & Exposure Intelligence** | Data Leak Sites, credential exposure, underground communities, OSINT/CLOSINT |
+| **Security Operations & Detection** | SIEM, threat hunting, incident response, detection engineering |
+| **Governance, Risk & Compliance** | NIS2, ISO/IEC 27001, third-party risk, assurance, and executive reporting |
+| **Attack Surface & Vulnerability Management** | External exposure, prioritization, CVSS/EPSS, and remediation workflows |
+| **AI Governance** | EU AI Act, AI risk, secure adoption, monitoring, and auditability |
 
 ---
 
 ## Cyber Threat Intelligence & Adversary Analysis
 
-Cyber Threat Intelligence represents the central axis of my academic and professional work. I focus on the collection, normalization, correlation, and interpretation of intelligence from open, closed, and semi-structured sources to support both strategic and operational security decisions.
+Cyber Threat Intelligence is the central thread of my academic and professional work. I focus on the collection, normalization, correlation, and interpretation of intelligence from open, closed, and semi-structured sources to support both strategic and operational security decisions.
 
 Key topics include:
 
@@ -85,7 +49,7 @@ This research line connects technical threat analysis with organizational resili
 
 ## Governance, Risk & Compliance
 
-A significant part of my work focuses on cybersecurity governance and regulatory alignment. This includes the design of security programs that translate regulatory obligations and risk requirements into operational controls, measurable maturity targets, and business-aligned security practices.
+Part of my work focuses on cybersecurity governance and regulatory alignment. This includes the design of security programs that translate regulatory obligations and risk requirements into operational controls, measurable maturity targets, and business-aligned security practices.
 
 Key areas include:
 
@@ -102,7 +66,7 @@ This area is particularly important because effective cybersecurity is not limit
 
 ## Security Operations, SIEM & Incident Response
 
-My research and applied work also cover the operational side of cybersecurity, especially the integration of CTI into security monitoring, threat hunting, and incident response workflows.
+My work also covers the operational side of cybersecurity, especially the integration of CTI into security monitoring, threat hunting, and incident response workflows.
 
 Key topics include:
 
@@ -119,7 +83,7 @@ This line of work aims to reduce the distance between intelligence production an
 
 ## Dark Web, OSINT/CLOSINT & Exposure Intelligence
 
-Dark web intelligence and exposure analysis are core components of my research activity. I study underground ecosystems, data leak sites, credential exposure, cybercrime forums, and adversarial marketplaces as observable surfaces of cybercriminal behavior.
+Dark web intelligence and exposure analysis are recurring parts of my research. I study underground ecosystems, data leak sites, credential exposure, cybercrime forums, and adversarial marketplaces as observable surfaces of cybercriminal behavior.
 
 Key topics include:
 
@@ -136,7 +100,7 @@ This area supports both strategic understanding of cybercrime and practical defe
 
 ## Ransomware Ecosystems and Cybercriminal Economies
 
-Ransomware remains one of my most developed research domains, particularly through my Ph.D. work on the structural resilience and evolution of the ransomware economy.
+Ransomware is the main focus of my Ph.D. research on the structural resilience and evolution of the ransomware economy.
 
 My doctoral research investigates ransomware not only as malware, but as an adaptive criminal ecosystem composed of groups, affiliates, infrastructure providers, initial access brokers, extortion models, negotiation dynamics, data leak sites, and monetization channels.
 
@@ -157,7 +121,7 @@ This research line is part of a broader CTI and cyber risk agenda. Ransomware is
 
 ## Attack Surface, Vulnerability & Risk Prioritization
 
-Another important research and engineering area concerns the analysis of external exposure, vulnerabilities, and attack surface signals. The objective is to support risk-based prioritization rather than producing isolated technical findings.
+I also work on the analysis of external exposure, vulnerabilities, and attack surface signals. The objective is to support risk-based prioritization rather than producing isolated technical findings.
 
 Key topics include:
 
@@ -174,7 +138,7 @@ This area connects offensive visibility, defensive prioritization, and governanc
 
 ## Malware, Detection Engineering & Adversary Simulation
 
-My technical background also includes malware analysis, adversary simulation, and detection engineering. This includes both academic work on Android malware and applied research on adversary tooling, post-exploitation frameworks, and detection logic.
+My technical background includes malware analysis, adversary simulation, and detection engineering. This includes both academic work on Android malware and applied research on adversary tooling, post-exploitation frameworks, and detection logic.
 
 Key topics include:
 
@@ -191,7 +155,7 @@ This area supports the technical depth required to transform intelligence findin
 
 ## AI Governance and Secure AI Adoption
 
-As organizations increasingly adopt AI systems, my work also extends to AI governance and secure AI adoption. The objective is to enable innovation while maintaining security, accountability, auditability, and regulatory alignment.
+As organizations adopt AI systems, my work also covers AI governance and secure AI adoption. The objective is to enable innovation while maintaining security, accountability, auditability, and regulatory alignment.
 
 Key topics include:
 
@@ -208,7 +172,7 @@ This area connects cybersecurity, compliance, innovation, and executive governan
 
 ## Applied Engineering & Threat Intelligence Platforms
 
-A central part of my research is the translation of analytical models into operational tools and platforms.
+A recurring part of my work is turning analytical methods into operational tools and platforms.
 
 * **Deepye Project:** Designed and developed a microservices-based Threat Intelligence Platform for attack surface analysis, integrating OSINT and CLOSINT sources.
 * **Threat Intelligence Automation:** Development of workflows for enrichment, correlation, risk scoring, and evidence management.
@@ -219,25 +183,18 @@ This engineering component reflects a core principle of my work: research should
 
 ---
 
-## Academic, Teaching & Supervision Activities
+## Teaching & Supervision
 
-Alongside professional and research activities, I contribute to cybersecurity education and advanced training, especially in Cyber Threat Intelligence, ransomware analysis, dark web intelligence, and security operations.
+Research and teaching are closely connected in my work. I contribute to university courses, professional training, practical laboratories, and thesis supervision in Cyber Threat Intelligence, ransomware analysis, dark web intelligence, and security operations.
 
-Academic and teaching activities include:
-
-* Lectures and modules on Cyber Threat Intelligence, dark web intelligence, ransomware ecosystems, and intelligence-driven incident response.
-* Hands-on laboratories based on real-world scenarios and adversary behavior.
-* Co-supervision of Master's theses on CTI platforms, dark web monitoring, adversary simulation, and ransomware intelligence.
-* Development of training material for academic, professional, and executive audiences.
-
-Teaching is an important part of my research identity because it transforms complex cybersecurity topics into structured knowledge that can support analysts, students, professionals, and decision-makers.
+A detailed overview is available on the [Teaching](/teaching/) page.
 
 ---
 
-## Research Vision
+## Research Direction
 
-My long-term research vision is to develop a cybersecurity perspective that connects **threat intelligence**, **risk governance**, **security operations**, and **organizational resilience**.
+My long-term objective is to connect **threat intelligence**, **risk governance**, **security operations**, and **organizational resilience**.
 
 The objective is to move beyond reactive security models and support organizations in building intelligence-driven capabilities that can anticipate threats, prioritize risk, improve detection, guide response, and strengthen governance.
 
-In this perspective, ransomware, dark web intelligence, vulnerability exposure, AI governance, and regulatory compliance are not separate topics. They are different dimensions of the same challenge: understanding how digital risk emerges, evolves, and can be managed through intelligence, governance, and operational discipline.
+Rather than treating ransomware, dark web intelligence, vulnerability exposure, AI governance, and regulatory compliance as separate topics, I see them as different views of the same problem: understanding how digital risk emerges, how it changes over time, and how organizations can respond through better intelligence, governance, and operational discipline.
