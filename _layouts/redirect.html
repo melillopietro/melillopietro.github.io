@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ '/' | absolute_url }}">
+    <link rel="canonical" href="{{ '/' | absolute_url }}">
+    <title>Redirecting to {{ site.title }}</title>
+    <script>window.location.replace({{ '/' | relative_url | jsonify }});</script>
+  </head>
+  <body>
+    <p><a href="{{ '/' | relative_url }}">Continue to {{ site.title }}</a></p>
+  </body>
+</html>
