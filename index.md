@@ -29,17 +29,32 @@ My current work includes:
 
 ## Areas of Expertise
 
-| Area | Focus |
-| :--- | :--- |
-| **Cyber Threat Intelligence** | Threat actor profiling, ransomware intelligence, IoC/IoA lifecycle, MITRE ATT&CK mapping, intelligence analysis, and decision support |
-| **Governance, Risk & Compliance** | NIS2, ISO/IEC 27001, cyber risk assessment, supplier risk, control maturity, and executive reporting |
-| **Security Operations & Incident Response** | SIEM, threat hunting, detection workflows, investigation, triage, escalation, and response coordination |
-| **Dark Web & Cybercrime Intelligence** | Underground monitoring, Data Leak Sites, credential exposure, cybercriminal ecosystems, and adversarial communities |
-| **Ransomware Research** | Ransomware groups, RaaS models, extortion strategies, affiliate dynamics, disclosure patterns, and ecosystem resilience |
-| **Attack Surface & Vulnerability Management** | External exposure analysis, OSINT/CLOSINT enrichment, vulnerability prioritization, and remediation governance |
-| **Detection Engineering** | IBM QRadar, correlation logic, intelligence enrichment, IoC integration, and behavioral detection |
-| **AI Governance** | EU AI Act alignment, AI risk classification, AI DPIA, model monitoring, auditability, and third-party AI risk |
-| **Teaching & Mentoring** | University teaching, professional training, thesis supervision, cybersecurity awareness, and executive communication |
+### Cyber Threat Intelligence
+Threat actor profiling, ransomware intelligence, IoC/IoA lifecycle management, MITRE ATT&CK mapping, intelligence analysis, and decision support.
+
+### Governance, Risk & Compliance
+NIS2, ISO/IEC 27001, cyber risk assessment, supplier risk, control maturity, and executive reporting.
+
+### Security Operations & Incident Response
+SIEM, threat hunting, detection workflows, investigation, triage, escalation, and response coordination.
+
+### Dark Web & Cybercrime Intelligence
+Underground monitoring, Data Leak Sites, credential exposure, cybercriminal ecosystems, and adversarial communities.
+
+### Ransomware Research
+Ransomware groups, RaaS models, extortion strategies, affiliate dynamics, disclosure patterns, and ecosystem resilience.
+
+### Attack Surface & Vulnerability Management
+External exposure analysis, OSINT/CLOSINT enrichment, vulnerability prioritization, and remediation governance.
+
+### Detection Engineering
+IBM QRadar, correlation logic, intelligence enrichment, IoC integration, and behavioral detection.
+
+### AI Governance
+EU AI Act alignment, AI risk classification, AI DPIA, model monitoring, auditability, and third-party AI risk.
+
+### Teaching & Mentoring
+University teaching, professional training, thesis supervision, cybersecurity awareness, and executive communication.
 
 ---
 
@@ -120,12 +135,25 @@ See also the [Certifications](/certifications/) page.
 
 ## Professional Experience
 
-| Period | Role | Organization | Main Focus |
-| :--- | :--- | :--- | :--- |
-| **2023–Present** | Chief Information Security Officer | Würth Italia Group Entities | Cybersecurity strategy, NIS2, GRC, AI governance, CTI-led operations, vulnerability management, and secure transformation |
-| **2021–2023** | Cyber Security Architect & Senior Threat Intelligence Analyst | IBM | Cyber Threat Intelligence, IBM QRadar SIEM, dark web analysis, IoC enrichment, detection logic, X-Force Exchange contributions, and reporting |
-| **2019–2021** | Cyber Security Engineer & SOC Analyst | Yoroi | SOC operations, incident response, threat hunting, monitoring, and operational security |
-| **2022–2024** | Cyber Security Instructor | IUSI Corporate University | Cybersecurity training, CTI, incident response, practical labs, and mentoring |
+### 2023–Present · Chief Information Security Officer
+**Würth Italia Group Entities**
+
+Cybersecurity strategy, NIS2, GRC, AI governance, CTI-led operations, vulnerability management, and secure transformation.
+
+### 2021–2023 · Cyber Security Architect & Senior Threat Intelligence Analyst
+**IBM**
+
+Cyber Threat Intelligence, IBM QRadar SIEM, dark web analysis, IoC enrichment, detection logic, X-Force Exchange contributions, and reporting.
+
+### 2019–2021 · Cyber Security Engineer & SOC Analyst
+**Yoroi**
+
+SOC operations, incident response, threat hunting, monitoring, and operational security.
+
+### 2022–2024 · Cyber Security Instructor
+**IUSI Corporate University**
+
+Cybersecurity training, CTI, incident response, practical labs, and mentoring.
 
 ---
 
