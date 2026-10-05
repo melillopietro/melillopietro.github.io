@@ -18,6 +18,7 @@ This page includes upcoming engagements and a selection of past talks and worksh
 | Date | Event / Conference | Location | Topic / Talk Title |
 | :--- | :--- | :--- | :--- |
 | **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, Artificial Intelligence & Digital Governance – Forecasting 2027 |
+| **Nov 20–21, 2026** | ANACI Modena | Modena, Italy | Cybersecurity, digital risk and emerging threats for real estate administrators |
 
 ---
 
