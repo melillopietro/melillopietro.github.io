@@ -5,7 +5,7 @@ icon: fas fa-chalkboard-teacher
 order: 5
 ---
 
-## Teaching Approach
+## <i class="fas fa-bullseye fa-fw"></i> Teaching Approach
 
 My teaching connects academic foundations with operational cybersecurity practice. I work with students, professionals, and executive audiences, using real cases and structured exercises to show how threat intelligence, adversary behavior, security operations, and governance work in practice.
 
@@ -13,13 +13,13 @@ The subjects I cover most often include **Cyber Threat Intelligence, dark web in
 
 ---
 
-## Academic Teaching & Supervision
+## <i class="fas fa-university fa-fw"></i> Academic Teaching & Supervision
 
 This section includes university teaching, academic supervision, Ph.D. research activity, thesis co-supervision, and internship collaborations developed within formal academic contexts.
 
 ---
 
-### [University of Rome Tor Vergata](https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html)
+### <i class="fas fa-school fa-fw"></i> [University of Rome Tor Vergata](https://www.cybersecurityprivacy.it/master/master-in-cybersecurity-e-privacy.html)
 **Industry Lecturer – Master's in Cybersecurity and Privacy** (02/2023–Present)
 
 * Design and deliver advanced academic modules on Cyber Threat Intelligence, ransomware ecosystems, and dark web intelligence.
@@ -29,7 +29,7 @@ This section includes university teaching, academic supervision, Ph.D. research 
 
 ---
 
-### University of Sannio
+### <i class="fas fa-school fa-fw"></i> University of Sannio
 **Lecturer & Ph.D. Researcher**
 
 * Deliver academic modules focused on ransomware ecosystems, dark web intelligence, and intelligence-driven detection and response.
@@ -55,7 +55,7 @@ This section includes university teaching, academic supervision, Ph.D. research 
 
 ---
 
-### Free University of Bozen-Bolzano
+### <i class="fas fa-school fa-fw"></i> Free University of Bozen-Bolzano
 **Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026–Present)
 
 Through my role as **Chief Information Security Officer at Würth Italia**, I support thesis and internship activities involving students from the Free University of Bozen-Bolzano. These projects are developed within an enterprise cybersecurity context and focus on applied topics such as security governance, cyber risk management, vulnerability management, threat intelligence, and secure digital transformation.
@@ -70,7 +70,7 @@ The goal is to give students direct exposure to real organizational challenges w
 
 ---
 
-### University of Trento
+### <i class="fas fa-school fa-fw"></i> University of Trento
 **Cybersecurity Thesis & Internship Collaboration with Würth Italia** (2026–Present)
 
 I also support students from the University of Trento who undertake internship and thesis activities at Würth Italia on cybersecurity-related topics. These initiatives combine academic research, professional mentoring, and practical exposure to enterprise security processes.
@@ -87,9 +87,9 @@ Typical areas of work include Cyber Threat Intelligence, security awareness, att
 
 ---
 
-## Professional Courses & Training
+## <i class="fas fa-laptop-code fa-fw"></i> Professional Courses & Training
 
-### Red Hot Cyber Academy
+### <i class="fas fa-fire fa-fw"></i> Red Hot Cyber Academy
 **Instructor – Dark Web & Cyber Threat Intelligence Courses**
 
 Red Hot Cyber is an Italian cybersecurity community and media organization focused on cybercrime, vulnerability analysis, digital culture, innovation, events, and professional training. Through the Red Hot Cyber Academy, I deliver dedicated training paths on **Dark Web** and **Cyber Threat Intelligence**, available in both **Live Class** and **E-Learning** formats.
@@ -103,7 +103,7 @@ Red Hot Cyber is an Italian cybersecurity community and media organization focus
 
 ---
 
-#### Live Class
+#### <i class="fas fa-chalkboard fa-fw"></i> Live Class
 
 The **Live Class** is an intermediate course that combines instructor-led lessons, practical analysis workflows, and intelligence-focused exercises on the dark web and Cyber Threat Intelligence.
 
@@ -146,7 +146,7 @@ The course is also connected to the **DarkLab Intelligence Laboratory**, an oper
 
 ---
 
-#### E-Learning
+#### <i class="fas fa-desktop fa-fw"></i> E-Learning
 
 The **E-Learning** version offers a structured, self-paced introduction to dark web intelligence and Cyber Threat Intelligence.
 
@@ -185,7 +185,7 @@ The course is intended for people who want to understand the fundamentals of dar
 
 ---
 
-### IUSI Corporate University (Ferrara, Italy)
+### <i class="fas fa-building fa-fw"></i> IUSI Corporate University (Ferrara, Italy)
 **Cyber Security Instructor** (10/2022–10/2024)
 
 * Designed and delivered advanced training programs in cybersecurity and Cyber Threat Intelligence, including incident response, threat analysis, and offensive security fundamentals.
@@ -195,7 +195,7 @@ The course is intended for people who want to understand the fundamentals of dar
 
 ---
 
-## Main Teaching Areas
+## <i class="fas fa-layer-group fa-fw"></i> Main Teaching Areas
 
 | Area | Teaching Focus |
 | :--- | :--- |
@@ -212,7 +212,7 @@ The course is intended for people who want to understand the fundamentals of dar
 
 ---
 
-## Teaching Method
+## <i class="fas fa-lightbulb fa-fw"></i> Teaching Method
 
 My teaching method is built around four recurring elements:
 

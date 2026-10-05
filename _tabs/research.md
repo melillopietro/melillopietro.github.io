@@ -5,7 +5,7 @@ icon: fas fa-microscope
 order: 2
 ---
 
-## Research Profile
+## <i class="fas fa-id-card-alt fa-fw"></i> Research Profile
 
 My research sits at the intersection of **Cyber Threat Intelligence**, **security governance**, **security operations**, and **digital risk management**.
 
@@ -15,7 +15,7 @@ I approach cybersecurity as a **socio-technical discipline**. Technical indicato
 
 ---
 
-## Areas of Specialization
+## <i class="fas fa-star fa-fw"></i> Areas of Specialization
 
 My work spans several related areas rather than a fixed set of separate disciplines. The main ones are:
 
@@ -31,7 +31,7 @@ My work spans several related areas rather than a fixed set of separate discipli
 
 ---
 
-## Cyber Threat Intelligence & Adversary Analysis
+## <i class="fas fa-user-secret fa-fw"></i> Cyber Threat Intelligence & Adversary Analysis
 
 Cyber Threat Intelligence is the central thread of my academic and professional work. I focus on the collection, normalization, correlation, and interpretation of intelligence from open, closed, and semi-structured sources to support both strategic and operational security decisions.
 
@@ -47,7 +47,7 @@ This research line connects technical threat analysis with organizational resili
 
 ---
 
-## Governance, Risk & Compliance
+## <i class="fas fa-shield-alt fa-fw"></i> Governance, Risk & Compliance
 
 Part of my work focuses on cybersecurity governance and regulatory alignment. This includes the design of security programs that translate regulatory obligations and risk requirements into operational controls, measurable maturity targets, and business-aligned security practices.
 
@@ -64,7 +64,7 @@ This area is particularly important because effective cybersecurity is not limit
 
 ---
 
-## Security Operations, SIEM & Incident Response
+## <i class="fas fa-network-wired fa-fw"></i> Security Operations, SIEM & Incident Response
 
 My work also covers the operational side of cybersecurity, especially the integration of CTI into security monitoring, threat hunting, and incident response workflows.
 
@@ -81,7 +81,7 @@ This line of work aims to reduce the distance between intelligence production an
 
 ---
 
-## Dark Web, OSINT/CLOSINT & Exposure Intelligence
+## <i class="fas fa-user-ninja fa-fw"></i> Dark Web, OSINT/CLOSINT & Exposure Intelligence
 
 Dark web intelligence and exposure analysis are recurring parts of my research. I study underground ecosystems, data leak sites, credential exposure, cybercrime forums, and adversarial marketplaces as observable surfaces of cybercriminal behavior.
 
@@ -98,7 +98,7 @@ This area supports both strategic understanding of cybercrime and practical defe
 
 ---
 
-## Ransomware Ecosystems and Cybercriminal Economies
+## <i class="fas fa-biohazard fa-fw"></i> Ransomware Ecosystems and Cybercriminal Economies
 
 Ransomware is the main focus of my Ph.D. research on the structural resilience and evolution of the ransomware economy.
 
@@ -119,7 +119,7 @@ This research line is part of a broader CTI and cyber risk agenda. Ransomware is
 
 ---
 
-## Attack Surface, Vulnerability & Risk Prioritization
+## <i class="fas fa-bug fa-fw"></i> Attack Surface, Vulnerability & Risk Prioritization
 
 I also work on the analysis of external exposure, vulnerabilities, and attack surface signals. The objective is to support risk-based prioritization rather than producing isolated technical findings.
 
@@ -136,7 +136,7 @@ This area connects offensive visibility, defensive prioritization, and governanc
 
 ---
 
-## Malware, Detection Engineering & Adversary Simulation
+## <i class="fas fa-cogs fa-fw"></i> Malware, Detection Engineering & Adversary Simulation
 
 My technical background includes malware analysis, adversary simulation, and detection engineering. This includes both academic work on Android malware and applied research on adversary tooling, post-exploitation frameworks, and detection logic.
 
@@ -153,7 +153,7 @@ This area supports the technical depth required to transform intelligence findin
 
 ---
 
-## AI Governance and Secure AI Adoption
+## <i class="fas fa-robot fa-fw"></i> AI Governance and Secure AI Adoption
 
 As organizations adopt AI systems, my work also covers AI governance and secure AI adoption. The objective is to enable innovation while maintaining security, accountability, auditability, and regulatory alignment.
 
@@ -170,7 +170,7 @@ This area connects cybersecurity, compliance, innovation, and executive governan
 
 ---
 
-## Applied Engineering & Threat Intelligence Platforms
+## <i class="fas fa-tools fa-fw"></i> Applied Engineering & Threat Intelligence Platforms
 
 A recurring part of my work is turning analytical methods into operational tools and platforms.
 
@@ -183,7 +183,7 @@ This engineering component reflects a core principle of my work: research should
 
 ---
 
-## Teaching & Supervision
+## <i class="fas fa-chalkboard-teacher fa-fw"></i> Teaching & Supervision
 
 Research and teaching are closely connected in my work. I contribute to university courses, professional training, practical laboratories, and thesis supervision in Cyber Threat Intelligence, ransomware analysis, dark web intelligence, and security operations.
 
@@ -191,7 +191,7 @@ A detailed overview is available on the [Teaching](/teaching/) page.
 
 ---
 
-## Research Direction
+## <i class="fas fa-compass fa-fw"></i> Research Direction
 
 My long-term objective is to connect **threat intelligence**, **risk governance**, **security operations**, and **organizational resilience**.
 

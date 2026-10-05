@@ -4,9 +4,9 @@ title: About
 description: "Pietro Melillo is a CISO, Cyber Threat Intelligence specialist, Ph.D. researcher, lecturer, and cybersecurity community contributor working across security governance, ransomware research, dark web intelligence, AI governance, and security operations."
 ---
 
-## Profile
+## <i class="fas fa-id-badge fa-fw"></i> Profile
 
-I work in cybersecurity as a **Chief Information Security Officer (CISO)**, **Cyber Threat Intelligence specialist**, **Ph.D. researcher**, lecturer, and community contributor.
+> I work in cybersecurity as a **Chief Information Security Officer (CISO)**, **Cyber Threat Intelligence specialist**, **Ph.D. researcher**, lecturer, and community contributor.
 
 My work brings together three areas that are often treated separately: **security governance**, **operational threat intelligence**, and **academic research**. I am particularly interested in ransomware and cybercrime ecosystems, dark web intelligence, security operations, vulnerability management, AI governance, and the way technical findings can support better business and risk decisions.
 
@@ -14,7 +14,7 @@ I currently serve as **Chief Information Security Officer for Würth Italia Grou
 
 ---
 
-## Professional Focus
+## <i class="fas fa-bullseye fa-fw"></i> Professional Focus
 
 My current work includes:
 
@@ -27,38 +27,35 @@ My current work includes:
 
 ---
 
-## Areas of Expertise
+## <i class="fas fa-project-diagram fa-fw"></i> Workflow & Methodology
 
-### Cyber Threat Intelligence
-Threat actor profiling, ransomware intelligence, IoC/IoA lifecycle management, MITRE ATT&CK mapping, intelligence analysis, and decision support.
-
-### Governance, Risk & Compliance
-NIS2, ISO/IEC 27001, cyber risk assessment, supplier risk, control maturity, and executive reporting.
-
-### Security Operations & Incident Response
-SIEM, threat hunting, detection workflows, investigation, triage, escalation, and response coordination.
-
-### Dark Web & Cybercrime Intelligence
-Underground monitoring, Data Leak Sites, credential exposure, cybercriminal ecosystems, and adversarial communities.
-
-### Ransomware Research
-Ransomware groups, RaaS models, extortion strategies, affiliate dynamics, disclosure patterns, and ecosystem resilience.
-
-### Attack Surface & Vulnerability Management
-External exposure analysis, OSINT/CLOSINT enrichment, vulnerability prioritization, and remediation governance.
-
-### Detection Engineering
-IBM QRadar, correlation logic, intelligence enrichment, IoC integration, and behavioral detection.
-
-### AI Governance
-EU AI Act alignment, AI risk classification, AI DPIA, model monitoring, auditability, and third-party AI risk.
-
-### Teaching & Mentoring
-University teaching, professional training, thesis supervision, cybersecurity awareness, and executive communication.
+```mermaid
+flowchart TD
+    A[Dark Web Monitoring & OSINT] -->|Data Ingestion| B(Cyber Threat Intelligence)
+    B --> C{AI Enrichment & Analysis}
+    C -->|Pattern Recognition| D[Detection Engineering & SOC]
+    C -->|AI Governance| E[DPIA & Risk Compliance]
+    D --> F((Incident Response))
+    E --> G((Executive Reporting & NIS2))
+```
 
 ---
 
-## Research & Academic Activity
+## <i class="fas fa-star fa-fw"></i> Areas of Expertise
+
+- **<i class="fas fa-user-secret fa-fw"></i> Cyber Threat Intelligence**: Threat actor profiling, ransomware intelligence, IoC/IoA lifecycle management, MITRE ATT&CK mapping, intelligence analysis, and decision support.
+- **<i class="fas fa-shield-alt fa-fw"></i> Governance, Risk & Compliance**: NIS2, ISO/IEC 27001, cyber risk assessment, supplier risk, control maturity, and executive reporting.
+- **<i class="fas fa-network-wired fa-fw"></i> Security Operations & Incident Response**: SIEM, threat hunting, detection workflows, investigation, triage, escalation, and response coordination.
+- **<i class="fas fa-user-ninja fa-fw"></i> Dark Web & Cybercrime Intelligence**: Underground monitoring, Data Leak Sites, credential exposure, cybercriminal ecosystems, and adversarial communities.
+- **<i class="fas fa-biohazard fa-fw"></i> Ransomware Research**: Ransomware groups, RaaS models, extortion strategies, affiliate dynamics, disclosure patterns, and ecosystem resilience.
+- **<i class="fas fa-bug fa-fw"></i> Attack Surface & Vulnerability Management**: External exposure analysis, OSINT/CLOSINT enrichment, vulnerability prioritization, and remediation governance.
+- **<i class="fas fa-cogs fa-fw"></i> Detection Engineering**: IBM QRadar, correlation logic, intelligence enrichment, IoC integration, and behavioral detection.
+- **<i class="fas fa-robot fa-fw"></i> AI Governance**: EU AI Act alignment, AI risk classification, AI DPIA, model monitoring, auditability, and third-party AI risk.
+- **<i class="fas fa-chalkboard-teacher fa-fw"></i> Teaching & Mentoring**: University teaching, professional training, thesis supervision, cybersecurity awareness, and executive communication.
+
+---
+
+## <i class="fas fa-microscope fa-fw"></i> Research & Academic Activity
 
 I am a **Ph.D. Researcher in Cyber Threat Intelligence at the University of Sannio**. My research focuses on the evolution and structural resilience of the ransomware economy, using empirical and data-driven methods to study threat actors, extortion models, disclosure patterns, and observable cybercriminal activity.
 
@@ -77,7 +74,7 @@ For a more detailed overview, see the [Research](/research/) page.
 
 ---
 
-## Teaching & Academic Supervision
+## <i class="fas fa-graduation-cap fa-fw"></i> Teaching & Academic Supervision
 
 I teach in academic and professional cybersecurity programs, with a focus on connecting theory with real operational scenarios.
 
@@ -93,7 +90,7 @@ A complete overview is available on the [Teaching](/teaching/) page.
 
 ---
 
-## Community & Public Dissemination
+## <i class="fas fa-users fa-fw"></i> Community & Public Dissemination
 
 ### Red Hot Cyber & DarkLab
 
@@ -115,17 +112,17 @@ During my time at **IBM** as a **Cyber Security Architect and Senior Threat Inte
 
 ---
 
-## Certifications & Recognition
+## <i class="fas fa-certificate fa-fw"></i> Certifications & Recognition
 
 Selected certifications and professional recognitions include:
 
-* **Certified Chief Information Security Officer (CCISO)** – EC-Council
-* **Certified Ethical Hacker (CEH)** – EC-Council
-* **Certified Threat Intelligence Analyst (CTIA)** – EC-Council
-* **Certified Incident Handler** – EC-Council
-* **IBM QRadar SIEM Foundation and Advanced certifications**
-* **EC-Council Beta Tester**
-* **1st Place – CINI Smart City University Challenge (I-CiTies, 2020)** with the *City Shield* project developed by the University of Sannio team
+- <img src="https://img.shields.io/badge/Certification-CCISO-0A335C?style=flat-square" alt="CCISO" /> **Certified Chief Information Security Officer** – EC-Council
+- <img src="https://img.shields.io/badge/Certification-CEH-D93025?style=flat-square" alt="CEH" /> **Certified Ethical Hacker** – EC-Council
+- <img src="https://img.shields.io/badge/Certification-CTIA-1976D2?style=flat-square" alt="CTIA" /> **Certified Threat Intelligence Analyst** – EC-Council
+- <img src="https://img.shields.io/badge/Certification-E|CIH-F57C00?style=flat-square" alt="ECIH" /> **Certified Incident Handler** – EC-Council
+- <img src="https://img.shields.io/badge/Certification-IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM QRadar" /> **IBM QRadar SIEM Foundation and Advanced**
+- <img src="https://img.shields.io/badge/Role-EC--Council%20Beta%20Tester-607D8B?style=flat-square" alt="EC-Council Beta Tester" /> **EC-Council Beta Tester**
+- <img src="https://img.shields.io/badge/Award-1st%20Place%20CINI%20Challenge-FFC107?style=flat-square" alt="1st Place Award" /> **CINI Smart City University Challenge (I-CiTies, 2020)** with the *City Shield* project developed by the University of Sannio team
 
 * [NetCom Group and CINI Smart City University Challenge reference](https://www.netcomgroup.eu/it/netcom-group-e-il-cini-smart-city-university-challenge/)
 
@@ -133,7 +130,7 @@ See also the [Certifications](/certifications/) page.
 
 ---
 
-## Professional Experience
+## <i class="fas fa-briefcase fa-fw"></i> Professional Experience
 
 ### 2023–Present · Chief Information Security Officer
 **Würth Italia Group Entities**
@@ -157,7 +154,7 @@ Cybersecurity training, CTI, incident response, practical labs, and mentoring.
 
 ---
 
-## Core Competencies
+## <i class="fas fa-layer-group fa-fw"></i> Core Competencies
 
 * Cybersecurity Strategy & Executive Security Leadership
 * Cyber Threat Intelligence & Dark Web Analysis
@@ -172,7 +169,7 @@ Cybersecurity training, CTI, incident response, practical labs, and mentoring.
 
 ---
 
-## Professional Perspective
+## <i class="fas fa-eye fa-fw"></i> Professional Perspective
 
 I see cybersecurity as a discipline that has to work at more than one level at the same time. Technical depth matters, but it has to be connected to risk, governance, people, and business priorities.
 
