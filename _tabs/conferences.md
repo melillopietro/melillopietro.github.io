@@ -22,38 +22,20 @@ This page includes upcoming engagements and a selection of past talks and worksh
 
 ---
 
-## Recent Featured Engagement
-
-### ANACI National Congress – Le Vette dell'Amministrazione
-
-On **September 26, 2026**, I spoke with **Giulia Lombardozzi** at the **ANACI National Congress – "Le Vette dell'Amministrazione"**, held in Brunico, Italy.
-
-Our talk, **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, explored how information stolen from professionals and organizations can move from compromised devices into underground cybercrime ecosystems.
-
-The session focused on the relationship between **infostealer malware, stolen credentials, dark web exposure, access to management platforms, social engineering, and digital fraud**.
-
-Using practical examples and a real-world case analyzed for preventive purposes, we showed how a single compromised credential can expose much more than an account: documents, suppliers, payment processes, personal data, and trusted professional relationships can all become part of a wider attack chain.
-
-The aim was to translate cyber threat intelligence into practical risk awareness for real estate administrators and other non-technical professionals.
-
-* [LinkedIn – Event recap](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-activity-7509855296010407936-XsZF)
-
----
-
 ## Past Talks & Presentations
 
 | Date | Event / Conference | Location | Topic / Talk Title | Resources |
 | :--- | :--- | :--- | :--- | :--- |
 | **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, Artificial Intelligence & Digital Governance – Forecasting 2027 | [Event Website](https://www.cybearly.com/forecasting-2027/) |
-| **Sep 26, 2026** | ANACI National Congress – *Le Vette dell'Amministrazione* | Brunico, Italy | **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, with Giulia Lombardozzi | [Event recap](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-activity-7509855296010407936-XsZF) |
+| **Sep 26, 2026** | [ANACI National Congress – Le Vette dell'Amministrazione](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-share-7509855294403866624-dO_u/) | Brunico, Italy | **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, with Giulia Lombardozzi | [LinkedIn Post](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-share-7509855294403866624-dO_u/) |
 | **Jun 11, 2026** | [Digital Club / Cyber – Brainbow CISO Edition](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/) | Bolzano, Italy | Cyber Mentor – **"Efficacia Comunicativa: Brainbow CISO Edition"** | [Cyber Mentor profile](https://digital-club.it/mentor/pietro-melillo/) |
-| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: **"Safe Access to the Dark Web"** | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
+| **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: **"Come entrare nel Dark Web in sicurezza e accenni di CTI"** | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
 | **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: **"Ransomware Revolution"** | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
+| **May 9, 2026** | Red Hot Cyber Conference 2026 | Rome, Italy | **"Un anno di DarkLab. Tra Intelligence e Threat Actors"** | [Video](https://www.youtube.com/watch?v=m8Uc-S6RiZ8&t=14s&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **May 8, 2026** | [ANACI Cagliari](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) | Cagliari, Italy | Strategic cybersecurity and digital risk awareness for real estate administrators | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7458587104135016449/) |
 | **Feb 28, 2026** | ANACI Bolzano | Bolzano, Italy | Cybersecurity awareness and digital risk for real estate administrators | — |
 | **Oct 23, 2025** | [NetEye Conference 2025](https://www.wuerth-it.it/neteye-conference-2025/) | Verona, Italy | **"Use Case Würth Italia – Driven UI for Threat Intelligence"** | [Event page](https://www.wuerth-it.it/neteye-conference-2025/) |
 | **Sep 17, 2025** | ANACI Laives | Laives, Italy | **"Incantesimi digitali e stregonerie informatiche"** – Cybersecurity awareness and digital risk | — |
-| **May 9, 2025** | Red Hot Cyber Conference 2025 | Rome, Italy | **"Un anno di DarkLab. Tra Intelligence e Threat Actors"** | [Video](https://www.youtube.com/watch?v=m8Uc-S6RiZ8&t=14s&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **May 8, 2025** | Red Hot Cyber Conference 2025 | Rome, Italy | Workshop: **"Come entrare nel Dark Web in sicurezza e accenni di CTI"** | [Video](https://www.youtube.com/watch?v=JfuX8sqsRJ0&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **Apr 20, 2024** | Red Hot Cyber Conference 2024 | Rome, Italy | **"Ransom Inside: collezionare i dati sul fenomeno del ransomware"** | [Video](https://www.youtube.com/watch?v=NKWPG7PU5FU&pp=ygUOcGlldHJvIG1lbGlsbG8%3D) |
 | **Oct 28, 2023** | LinuxDay Avellino | Avellino, Italy | **"I dati della sanità italiana all'interno delle underground"** | [Event page](https://irlug.it/blog/linux%20day/eventi/linux-day-2023) |
