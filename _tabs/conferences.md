@@ -17,7 +17,7 @@ This page includes upcoming engagements and a selection of past talks and worksh
 
 | Date | Event / Conference | Location | Topic / Talk Title |
 | :--- | :--- | :--- | :--- |
-| **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, Artificial Intelligence & Digital Governance – Forecasting 2027 |
+| **Nov 13–14, 2026** | ANACI Brescia | Brescia, Italy | Cybersecurity, digital risk and emerging threats for real estate administrators |
 | **Nov 20–21, 2026** | ANACI Modena | Modena, Italy | Cybersecurity, digital risk and emerging threats for real estate administrators |
 
 ---
@@ -44,6 +44,7 @@ The aim was to translate cyber threat intelligence into practical risk awareness
 
 | Date | Event / Conference | Location | Topic / Talk Title | Resources |
 | :--- | :--- | :--- | :--- | :--- |
+| **Oct 15–16, 2026** | [Cybearly Forecasting 2027](https://www.cybearly.com/forecasting-2027/) | Pescara, Italy | Cybersecurity, Artificial Intelligence & Digital Governance – Forecasting 2027 | [Event Website](https://www.cybearly.com/forecasting-2027/) |
 | **Sep 26, 2026** | ANACI National Congress – *Le Vette dell'Amministrazione* | Brunico, Italy | **"Dentro il Dark Web: dove finiscono i dati degli amministratori e come nascono le nuove truffe digitali"**, with Giulia Lombardozzi | [Event recap](https://www.linkedin.com/posts/melillopietro_anaci-cybersecurity-darkweb-activity-7509855296010407936-XsZF) |
 | **Jun 11, 2026** | [Digital Club / Cyber – Brainbow CISO Edition](https://digital-club.it/evento/efficacia-comunicativa-brainbow-ciso-edition-bolzano/) | Bolzano, Italy | Cyber Mentor – **"Efficacia Comunicativa: Brainbow CISO Edition"** | [Cyber Mentor profile](https://digital-club.it/mentor/pietro-melillo/) |
 | **May 18, 2026** | [Red Hot Cyber Conference 2026](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) | Rome, Italy | Workshop: **"Safe Access to the Dark Web"** | [Event reference](https://www.linkedin.com/feed/update/urn:li:activity:7459533573608398849/) |
